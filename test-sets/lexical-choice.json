@@ -20,7 +20,9 @@
             "Qu'est-ce qu'il y a de dingue chez moi ?",
             "Est-ce que ça c'est fou ?"
           ]
-        }
+        },
+        "correct-words": "dingue",
+        "incorrect-words": "fou"
       },
       {
         "src": [
@@ -36,7 +38,9 @@
             "Qu'est-ce qu'il y a de fou chez moi ?",
             "Est-ce que ça c'est dingue ?"
           ]
-        }
+        },
+        "correct-words": "fou",
+        "incorrect-words": "dingue"
       }
     ]
   },
@@ -61,7 +65,9 @@
             "Un peu de limonade ?",
             "Dan adorait le citron pressé."
           ]
-        }
+        },
+        "correct-words": "la limonade.",
+        "incorrect-words": "le citron pressé."
       },
       {
         "src": [
@@ -77,7 +83,9 @@
             "Un peu de citron pressé ?",
             "Dan adorait la limonade."
           ]
-        }
+        },
+        "correct-words": "le citron pressé.",
+        "incorrect-words": "la limonade."
       }
     ]
   },
@@ -102,7 +110,9 @@
             "Je peux vendre ton canapé ?",
             "Vendre mon fauteuil ?"
           ]
-        }
+        },
+        "correct-words": "canapé",
+        "incorrect-words": "fauteuil"
       },
       {
         "src": [
@@ -118,7 +128,9 @@
             "Je peux vendre ton fauteuil ?",
             "Vendre mon canapé ?"
           ]
-        }
+        },
+        "correct-words": "fauteuil",
+        "incorrect-words": "canapé"
       }
     ]
   },
@@ -143,7 +155,9 @@
             "C'est clair que tu n'élèves pas nos enfants correctement.",
             "Alors pourquoi tu ne les aimes pas ?"
           ]
-        }
+        },
+        "correct-words": "t'en occupes",
+        "incorrect-words": "les aimes"
       },
       {
         "src": [
@@ -159,7 +173,9 @@
             "Ce sont de jolis petits gâteaux sucrés.",
             "Alors pourquoi tu ne t'en occupes pas ?"
           ]
-        }
+        },
+        "correct-words": "les aimes",
+        "incorrect-words": "t'en occupes"
       }
     ]
   },
@@ -184,7 +200,9 @@
             "Éteignez votre appareil s'il vous plaît.",
             "Vous appelez ça un dispositif ?"
           ]
-        }
+        },
+        "correct-words": "appareil",
+        "incorrect-words": "dispositif"
       },
       {
         "src": [
@@ -200,7 +218,9 @@
             "Éteignez votre dispositif s'il vous plaît.",
             "Vous appelez ça un appareil ?"
           ]
-        }
+        },
+        "correct-words": "dispositif",
+        "incorrect-words": "appareil"
       }
     ]
   },
@@ -225,7 +245,9 @@
             "Est-ce que c'est grave, Docteur ?",
             "Il va falloir se débarasser de cette taupe."
           ]
-        }
+        },
+        "correct-words": "enlever ce grain beauté.",
+        "incorrect-words": "se débarasser cette taupe."
       },
       {
         "src": [
@@ -241,7 +263,9 @@
             "Les choses pourraient devenir dangereuses si les ministres apprenaient ça.",
             "Il va falloir enlever ce grain de beauté."
           ]
-        }
+        },
+        "correct-words": "se débarasser cette taupe.",
+        "incorrect-words": "enlever ce grain beauté."
       }
     ]
   },
@@ -266,7 +290,9 @@
             "Alors quoi de neuf à propos des suspects ?",
             "J'ai trouvé une allumette !"
           ]
-        }
+        },
+        "correct-words": "correspondance",
+        "incorrect-words": "allumette"
       },
       {
         "src": [
@@ -282,7 +308,9 @@
             "Mon briquet ne marche pas...",
             "J'ai trouvé une correspondance !"
           ]
-        }
+        },
+        "correct-words": "allumette",
+        "incorrect-words": "correspondance"
       }
     ]
   },
@@ -307,7 +335,9 @@
             "Que s'est-il passé avec le chèque finalement ?",
             "Il a réussi à atteindre la rive."
           ]
-        }
+        },
+        "correct-words": "aller à banque.",
+        "incorrect-words": "atteindre rive."
       },
       {
         "src": [
@@ -323,7 +353,9 @@
             "Comment a-t-il réussi à ne pas se noyer ?",
             "Il a réussi à aller à la banque."
           ]
-        }
+        },
+        "correct-words": "atteindre rive.",
+        "incorrect-words": "aller à banque."
       }
     ]
   },
@@ -348,7 +380,9 @@
             "J'espère vraiment que ça ne jouera pas en ma défaveur.",
             "Voyons votre enregistrement."
           ]
-        }
+        },
+        "correct-words": "dossier.",
+        "incorrect-words": "enregistrement."
       },
       {
         "src": [
@@ -364,7 +398,9 @@
             "J'ai toujours été intéressé par la musique.",
             "Voyons votre dossier."
           ]
-        }
+        },
+        "correct-words": "enregistrement.",
+        "incorrect-words": "dossier."
       }
     ]
   },
@@ -389,7 +425,9 @@
             "Ils essaient toujours de se protéger, tout en exploitant les moins fortunés.",
             "Ce n'est pas du cricket."
           ]
-        }
+        },
+        "correct-words": "fair-play.",
+        "incorrect-words": "du cricket."
       },
       {
         "src": [
@@ -405,7 +443,9 @@
             "Il y a un match de cricket en cours là-bas.",
             "Ce n'est pas fair-play."
           ]
-        }
+        },
+        "correct-words": "du cricket.",
+        "incorrect-words": "fair-play."
       }
     ]
   },
@@ -430,7 +470,9 @@
             "J'en ai marre des mauvais candidats à ces élections.",
             "Alors, pourquoi est-ce que tu ne cours pas ?"
           ]
-        }
+        },
+        "correct-words": "candidates",
+        "incorrect-words": "cours"
       },
       {
         "src": [
@@ -446,7 +488,9 @@
             "Je vais encore rater le bus.",
             "Alors, pourquoi est-ce que tu ne candidates pas ?"
           ]
-        }
+        },
+        "correct-words": "cours",
+        "incorrect-words": "candidates"
       }
     ]
   },
@@ -471,7 +515,9 @@
             "Est-ce qu'il vous reste des bières ?",
             "Je suis désolé, ils viennent de sortir en courant."
           ]
-        }
+        },
+        "correct-words": "il n'y a plus.",
+        "incorrect-words": "ils viennent de sortir courant."
       },
       {
         "src": [
@@ -487,7 +533,9 @@
             "Est-ce que vous avez vu Sam et Bob quelque part ?",
             "Je suis désolé, il n'y en a plus."
           ]
-        }
+        },
+        "correct-words": "ils viennent de sortir courant.",
+        "incorrect-words": "il n'y a plus."
       }
     ]
   },
@@ -512,7 +560,9 @@
             "Oh non, maintenant tu es fâchée contre moi.",
             "Je ne suis pas folle."
           ]
-        }
+        },
+        "correct-words": "fâchée.",
+        "incorrect-words": "folle."
       },
       {
         "src": [
@@ -528,7 +578,9 @@
             "Tu dois être complètement folle si tu penses que c'est possible.",
             "Je ne suis pas fâchée."
           ]
-        }
+        },
+        "correct-words": "folle.",
+        "incorrect-words": "fâchée."
       }
     ]
   },
@@ -553,7 +605,9 @@
             "Ils achètent des graines à Rob.",
             "Donc tu vois, l'usine ne leur appartient même pas."
           ]
-        }
+        },
+        "correct-words": "la plante",
+        "incorrect-words": "l'usine"
       },
       {
         "src": [
@@ -569,7 +623,9 @@
             "Les nouveaux patrons viennent pour parler de l'élimination de déchets.",
             "Donc tu vois, la plante ne leur appartient même pas."
           ]
-        }
+        },
+        "correct-words": "l'usine",
+        "incorrect-words": "la plante"
       }
     ]
   },
@@ -594,7 +650,9 @@
             "Est-ce que le code avance bien ?",
             "Il reste encore quelques insectes."
           ]
-        }
+        },
+        "correct-words": "bugs.",
+        "incorrect-words": "insectes."
       },
       {
         "src": [
@@ -610,7 +668,9 @@
             "Tu as réussi à éliminer les dernières petites bêtes ?",
             "Il reste encore quelques bugs."
           ]
-        }
+        },
+        "correct-words": "insectes.",
+        "incorrect-words": "bugs."
       }
     ]
   },
@@ -635,7 +695,9 @@
             "Est-ce que je peux t'aider pour l'emballage ?",
             "Passe-moi cet arc."
           ]
-        }
+        },
+        "correct-words": "ce ruban.",
+        "incorrect-words": "cet arc."
       },
       {
         "src": [
@@ -651,7 +713,9 @@
             "Tu penses que tu peux le tirer dessus à partir d'ici ?",
             "Passe-moi ce ruban."
           ]
-        }
+        },
+        "correct-words": "cet arc.",
+        "incorrect-words": "ce ruban."
       }
     ]
   },
@@ -676,7 +740,9 @@
             "Ils vivent dans la pauvreté.",
             "Mais ils sont gratuits."
           ]
-        }
+        },
+        "correct-words": "libres.",
+        "incorrect-words": "gratuits."
       },
       {
         "src": [
@@ -692,7 +758,9 @@
             "Les sandwichs ne sont pas très bons ici.",
             "Mais ils sont libres."
           ]
-        }
+        },
+        "correct-words": "gratuits.",
+        "incorrect-words": "libres."
       }
     ]
   },
@@ -717,7 +785,9 @@
             "Le texte est trop petit.",
             "Tu veux que je te prête mes verres ?"
           ]
-        }
+        },
+        "correct-words": "lunettes",
+        "incorrect-words": "verres"
       },
       {
         "src": [
@@ -733,7 +803,9 @@
             "Je vais ouvrir une bouteille de plus mais je dois trouver plus de...",
             "Tu veux que je te prête mes lunettes ?"
           ]
-        }
+        },
+        "correct-words": "verres",
+        "incorrect-words": "lunettes"
       }
     ]
   },
@@ -758,7 +830,9 @@
             "Le prix est de 30 dollars.",
             "25 hauts."
           ]
-        }
+        },
+        "correct-words": "max.",
+        "incorrect-words": "hauts."
       },
       {
         "src": [
@@ -774,7 +848,9 @@
             "Tu veux dire que tu as amené 10 pantalons, 6 pulls et...",
             "25 max."
           ]
-        }
+        },
+        "correct-words": "hauts.",
+        "incorrect-words": "max."
       }
     ]
   },
@@ -799,7 +875,9 @@
             "Les prisonniers ont été capturés sur la plage.",
             "Et de marque."
           ]
-        }
+        },
+        "correct-words": "marqués au fer.",
+        "incorrect-words": "de marque."
       },
       {
         "src": [
@@ -815,7 +893,9 @@
             "Il achète toujours des vêtement chers.",
             "Et marqués au fer."
           ]
-        }
+        },
+        "correct-words": "de marque.",
+        "incorrect-words": "marqués au fer."
       }
     ]
   },
@@ -840,7 +920,9 @@
             "Je ne jouerai plus jamais au poker avec toi.",
             "Donne-moi les frites !"
           ]
-        }
+        },
+        "correct-words": "jetons",
+        "incorrect-words": "frites"
       },
       {
         "src": [
@@ -856,7 +938,9 @@
             "Et maintenant je verse le ketchup...",
             "Donne-moi les jetons !"
           ]
-        }
+        },
+        "correct-words": "frites",
+        "incorrect-words": "jetons"
       }
     ]
   },
@@ -881,7 +965,9 @@
             "Le nouveau est un peu impoli",
             "Et peu sombre."
           ]
-        }
+        },
+        "correct-words": "stupide.",
+        "incorrect-words": "peu sombre."
       },
       {
         "src": [
@@ -897,7 +983,9 @@
             "La pièce est trop petite.",
             "Et stupide."
           ]
-        }
+        },
+        "correct-words": "peu sombre.",
+        "incorrect-words": "stupide."
       }
     ]
   },
@@ -922,7 +1010,9 @@
             "Et les vis longues.",
             "On fait des ongles argentés aussi."
           ]
-        }
+        },
+        "correct-words": "clous",
+        "incorrect-words": "ongles"
       },
       {
         "src": [
@@ -938,7 +1028,9 @@
             "Votre maquillage est très bien.",
             "On fait des clous argentés aussi."
           ]
-        }
+        },
+        "correct-words": "ongles",
+        "incorrect-words": "clous"
       }
     ]
   },
@@ -963,7 +1055,9 @@
             "Est-ce que tu peux amener ça à la déchetterie ?",
             "Il faut d'abord remplir la botte."
           ]
-        }
+        },
+        "correct-words": "le coffre.",
+        "incorrect-words": "la botte."
       },
       {
         "src": [
@@ -979,7 +1073,9 @@
             "Vous voulez un plâtre de son pied ?",
             "Il faut d'abord remplir le coffre."
           ]
-        }
+        },
+        "correct-words": "la botte.",
+        "incorrect-words": "le coffre."
       }
     ]
   },
@@ -1004,7 +1100,9 @@
             "Tu l'as totalement détruit !",
             "Je ne dirais pas que je l'ai totalement cassé..."
           ]
-        }
+        },
+        "correct-words": "détruit...",
+        "incorrect-words": "cassé..."
       },
       {
         "src": [
@@ -1020,7 +1118,9 @@
             "Tu l'as totalement cassé !",
             "Je ne dirais pas que je l'ai totalement détruit..."
           ]
-        }
+        },
+        "correct-words": "cassé...",
+        "incorrect-words": "détruit..."
       }
     ]
   },
@@ -1045,7 +1145,9 @@
             "Elle déteste la forêt, la plage, la ville.",
             "Elle hait tout."
           ]
-        }
+        },
+        "correct-words": "déteste",
+        "incorrect-words": "hait"
       },
       {
         "src": [
@@ -1061,7 +1163,9 @@
             "Elle hait la forêt, la plage, la ville.",
             "Elle déteste tout."
           ]
-        }
+        },
+        "correct-words": "hait",
+        "incorrect-words": "déteste"
       }
     ]
   },
@@ -1086,7 +1190,9 @@
             "Il pleut des hordes.",
             "Tu veux dire \"les chats et les chiens\"?"
           ]
-        }
+        },
+        "correct-words": "\"des cordes\"?",
+        "incorrect-words": "\"les chats et les chiens\"?"
       },
       {
         "src": [
@@ -1102,7 +1208,9 @@
             "On pourrait prendre un animal domestique - J'aime les chats et les chèvres.",
             "Tu veux dire \"des cordes\"?"
           ]
-        }
+        },
+        "correct-words": "\"les chats et les chiens\"?",
+        "incorrect-words": "\"des cordes\"?"
       }
     ]
   },
@@ -1127,7 +1235,9 @@
             "On devrait bientôt rentrer à l'église.",
             "Le ministre va s'inquiéter."
           ]
-        }
+        },
+        "correct-words": "pasteur",
+        "incorrect-words": "ministre"
       },
       {
         "src": [
@@ -1143,7 +1253,9 @@
             "On devrait bientôt rentrer au Parlement.",
             "Le pasteur va s'inquiéter."
           ]
-        }
+        },
+        "correct-words": "ministre",
+        "incorrect-words": "pasteur"
       }
     ]
   },
@@ -1168,7 +1280,9 @@
             "Ceci fait référence à une unité opérationnelle.",
             "Quel groupe de travail ?"
           ]
-        }
+        },
+        "correct-words": "Quelle unité opérationnelle",
+        "incorrect-words": "Quel groupe de travail"
       },
       {
         "src": [
@@ -1184,7 +1298,9 @@
             "Ceci fait référence à un groupe de travail.",
             "Quelle unité opérationnelle ?"
           ]
-        }
+        },
+        "correct-words": "Quel groupe de travail",
+        "incorrect-words": "Quelle unité opérationnelle"
       }
     ]
   },
@@ -1209,7 +1325,9 @@
             "Vas-y, dis oui.",
             "OK."
           ]
-        }
+        },
+        "correct-words": "Oui.",
+        "incorrect-words": "OK."
       },
       {
         "src": [
@@ -1225,7 +1343,9 @@
             "Vas-y, dis OK.",
             "Oui."
           ]
-        }
+        },
+        "correct-words": "OK.",
+        "incorrect-words": "Oui."
       }
     ]
   },
@@ -1250,7 +1370,9 @@
             "Et puis l'attaque a eu lieu.",
             "Un assaut vraiment affreux."
           ]
-        }
+        },
+        "correct-words": "Une attaque affreuse.",
+        "incorrect-words": "Un assaut affreux."
       },
       {
         "src": [
@@ -1266,7 +1388,9 @@
             "Et puis l'assaut a eu lieu.",
             "Une attaque vraiment affreuse."
           ]
-        }
+        },
+        "correct-words": "Un assaut affreux.",
+        "incorrect-words": "Une attaque affreuse."
       }
     ]
   },
@@ -1291,7 +1415,9 @@
             "Elle donne l'air tellement fâchée.",
             "Oui elle est vraiment énervée."
           ]
-        }
+        },
+        "correct-words": "fâchée.",
+        "incorrect-words": "énervée."
       },
       {
         "src": [
@@ -1307,7 +1433,9 @@
             "Elle donne l'air tellement énervée.",
             "Oui elle est vraiment fâchée."
           ]
-        }
+        },
+        "correct-words": "énervée.",
+        "incorrect-words": "fâchée."
       }
     ]
   },
@@ -1332,7 +1460,9 @@
             "N'approchez pas ou je tire.",
             "Baissez vos bras."
           ]
-        }
+        },
+        "correct-words": "armes.",
+        "incorrect-words": "bras."
       },
       {
         "src": [
@@ -1348,7 +1478,9 @@
             "Maintenant levez votre jambe droite.",
             "Baissez vos armes."
           ]
-        }
+        },
+        "correct-words": "bras.",
+        "incorrect-words": "armes."
       }
     ]
   },
@@ -1373,7 +1505,9 @@
             "Quel est votre nom ?",
             "Comment je m'appelle ?"
           ]
-        }
+        },
+        "correct-words": "Mon nom",
+        "incorrect-words": "Comment je m'appelle"
       },
       {
         "src": [
@@ -1389,7 +1523,9 @@
             "Comment tu t'appelles ?",
             "Mon nom ?"
           ]
-        }
+        },
+        "correct-words": "Comment je m'appelle",
+        "incorrect-words": "Mon nom"
       }
     ]
   },
@@ -1414,7 +1550,9 @@
             "Pourquoi es-tu si content aujourd'hui ?",
             "Ça doit être le ressort..."
           ]
-        }
+        },
+        "correct-words": "printemps...",
+        "incorrect-words": "ressort..."
       },
       {
         "src": [
@@ -1430,7 +1568,9 @@
             "Ça ne rebondit pas du tout.",
             "Ça doit être le printemps..."
           ]
-        }
+        },
+        "correct-words": "ressort...",
+        "incorrect-words": "printemps..."
       }
     ]
   },
@@ -1455,7 +1595,9 @@
             "Les choses ont commencé à mal tourner.",
             "Elles ont commencé à vraiment devenir amères."
           ]
-        }
+        },
+        "correct-words": "mal tourner.",
+        "incorrect-words": "devenir amères."
       },
       {
         "src": [
@@ -1471,7 +1613,9 @@
             "Les citrouilles ont commencé à devenir amères.",
             "Elles ont commencé à vraiment mal tourner."
           ]
-        }
+        },
+        "correct-words": "devenir amères.",
+        "incorrect-words": "mal tourner."
       }
     ]
   },
@@ -1496,7 +1640,9 @@
             "Je n'ai pas confiance en cette chiffe molle.",
             "Je sais. Trop soyeux."
           ]
-        }
+        },
+        "correct-words": "faible.",
+        "incorrect-words": "soyeux."
       },
       {
         "src": [
@@ -1512,7 +1658,9 @@
             "Ce tissu n'a pas l'air assez rustique.",
             "Je sais. Trop faible."
           ]
-        }
+        },
+        "correct-words": "soyeux.",
+        "incorrect-words": "faible."
       }
     ]
   },
@@ -1537,7 +1685,9 @@
             "Je ne sais pas comment ils ont pu savoir !",
             "Il doit y avoir un rat dans le bureau."
           ]
-        }
+        },
+        "correct-words": "traître",
+        "incorrect-words": "rat"
       },
       {
         "src": [
@@ -1553,7 +1703,9 @@
             "J'entends des bruits de pattes derrière le placard.",
             "Il doit y avoir un traître dans le bureau."
           ]
-        }
+        },
+        "correct-words": "rat",
+        "incorrect-words": "traître"
       }
     ]
   },
@@ -1578,7 +1730,9 @@
             "Est-ce que vous avez du mal à respirer ?",
             "Mon coffre est assez lourd..."
           ]
-        }
+        },
+        "correct-words": "Ma poitrine lourde...",
+        "incorrect-words": "Mon coffre lourd..."
       },
       {
         "src": [
@@ -1594,7 +1748,9 @@
             "Pourquoi est-ce que tu penses que c'est toi qui as le plus de pièces en or ?",
             "Ma poitrine est assez lourde..."
           ]
-        }
+        },
+        "correct-words": "Mon coffre lourd...",
+        "incorrect-words": "Ma poitrine lourde..."
       }
     ]
   },
@@ -1619,7 +1775,9 @@
             "Est-ce qu'il a quelqu'un pour le défendre ?",
             "Personne ne s'approchera de la valise."
           ]
-        }
+        },
+        "correct-words": "n'osera toucher le dossier.",
+        "incorrect-words": "ne s'approchera de la valise."
       },
       {
         "src": [
@@ -1635,7 +1793,9 @@
             "Fais attention à ce que personne ne touche à mes affaires, d'accord ?",
             "Personne n'osera toucher le dossier."
           ]
-        }
+        },
+        "correct-words": "ne s'approchera de la valise.",
+        "incorrect-words": "n'osera toucher le dossier."
       }
     ]
   },
@@ -1660,7 +1820,9 @@
             "Il commence à faire chaud.",
             "Trop épicé pour moi."
           ]
-        }
+        },
+        "correct-words": "chaud",
+        "incorrect-words": "épicé"
       },
       {
         "src": [
@@ -1676,7 +1838,9 @@
             "Il paraît que le curry au poulet est bon.",
             "Trop chaud pour moi."
           ]
-        }
+        },
+        "correct-words": "épicé",
+        "incorrect-words": "chaud"
       }
     ]
   },
@@ -1701,7 +1865,9 @@
             "Oh merde. Maintenant l'écran de l'ordinateur ne fonctionne plus.",
             "Il est complètement congelé."
           ]
-        }
+        },
+        "correct-words": "bloqué.",
+        "incorrect-words": "congelé."
       },
       {
         "src": [
@@ -1717,7 +1883,9 @@
             "Mmm, je ne suis pas sûre que le dessert soit prêt.",
             "Il est complètement bloqué."
           ]
-        }
+        },
+        "correct-words": "congelé.",
+        "incorrect-words": "bloqué."
       }
     ]
   },
@@ -1742,7 +1910,9 @@
             "Ce n'était pas trop difficile ?",
             "Si, c'était une part de gâteau."
           ]
-        }
+        },
+        "correct-words": "Non, un jeu d'enfant.",
+        "incorrect-words": "Si, une part de gâteau."
       },
       {
         "src": [
@@ -1758,7 +1928,9 @@
             "Tu lui as donné une part de tarte ?",
             "Non, c'était un jeu d'enfant."
           ]
-        }
+        },
+        "correct-words": "Si, une part de gâteau.",
+        "incorrect-words": "Non, un jeu d'enfant."
       }
     ]
   },
@@ -1783,7 +1955,9 @@
             "OK, maintenant tu dois tourner à droite.",
             "Si, c'est mon droit !"
           ]
-        }
+        },
+        "correct-words": "Non, à ma droite",
+        "incorrect-words": "Si, mon droit"
       },
       {
         "src": [
@@ -1799,7 +1973,9 @@
             "Vous ne pouvez pas prendre une telle décision.",
             "Non, c'est à ma droite !"
           ]
-        }
+        },
+        "correct-words": "Si, mon droit",
+        "incorrect-words": "Non, à ma droite"
       }
     ]
   },
@@ -1824,7 +2000,9 @@
             "Elle a insulté le maire en la traitant de grosse vache.",
             "Un gros cochon ?"
           ]
-        }
+        },
+        "correct-words": "De grosse vache",
+        "incorrect-words": "Un gros cochon"
       },
       {
         "src": [
@@ -1840,7 +2018,9 @@
             "Je vais au marché demain pour acheter un cochon.",
             "De grosse vache ?"
           ]
-        }
+        },
+        "correct-words": "Un gros cochon",
+        "incorrect-words": "De grosse vache"
       }
     ]
   },
@@ -1865,7 +2045,9 @@
             "Je ne suis très sûre que le toit soit très stable.",
             "Le rayon a l'air de bouger."
           ]
-        }
+        },
+        "correct-words": "La poutre",
+        "incorrect-words": "Le rayon"
       },
       {
         "src": [
@@ -1881,7 +2063,9 @@
             "Le vaisseau spatial fait du surplace.",
             "La poutre a l'air de bouger."
           ]
-        }
+        },
+        "correct-words": "Le rayon",
+        "incorrect-words": "La poutre"
       }
     ]
   },
@@ -1906,7 +2090,9 @@
             "Cette serrure est difficile.",
             "Alors je te laisse choisir."
           ]
-        }
+        },
+        "correct-words": "la forcer.",
+        "incorrect-words": "choisir."
       },
       {
         "src": [
@@ -1922,7 +2108,9 @@
             "Non, je ne suis pas grand fan de celle-là.",
             "Alors je te laisse la forcer."
           ]
-        }
+        },
+        "correct-words": "choisir.",
+        "incorrect-words": "la forcer."
       }
     ]
   },
@@ -1947,7 +2135,9 @@
             "Evacuez immédiatement.",
             "Ce n'est pas une perceuse ?"
           ]
-        }
+        },
+        "correct-words": "un exercice",
+        "incorrect-words": "une perceuse"
       },
       {
         "src": [
@@ -1963,7 +2153,9 @@
             "J'ai besoin que tu me trouves une perceuse.",
             "Ce n'est pas un exercice ?"
           ]
-        }
+        },
+        "correct-words": "une perceuse",
+        "incorrect-words": "un exercice"
       }
     ]
   },
@@ -1988,7 +2180,9 @@
             "Est-ce qu'il a bientôt fini sa tournée ?",
             "Il en est au dernier pied."
           ]
-        }
+        },
+        "correct-words": "à la dernière étape.",
+        "incorrect-words": "au dernier pied."
       },
       {
         "src": [
@@ -2004,7 +2198,9 @@
             "Est-ce qu'il a fini de monter la table ?",
             "Il en est à la dernière étape."
           ]
-        }
+        },
+        "correct-words": "au dernier pied.",
+        "incorrect-words": "à la dernière étape."
       }
     ]
   },
@@ -2028,7 +2224,9 @@
             "Vous voulez dire que je dois le porter moi-même ?",
             "Ne vous inquiétez pas, il est très lumineux."
           ]
-        }
+        },
+        "correct-words": "léger.",
+        "incorrect-words": "lumineux."
       },
       {
         "src": [
@@ -2044,7 +2242,9 @@
             "Le bureau n'a qu'une seule fenêtre ?",
             "Ne vous inquiétez pas, il est très léger."
           ]
-        }
+        },
+        "correct-words": "lumineux.",
+        "incorrect-words": "léger."
       }
     ]
   },
@@ -2069,7 +2269,9 @@
             "Elle était où la poule en fait?",
             "Là-bas à côté du stylo."
           ]
-        }
+        },
+        "correct-words": "de l'enclos.",
+        "incorrect-words": "du stylo."
       },
       {
         "src": [
@@ -2085,7 +2287,9 @@
             "Il était où le crayon en fait?",
             "Là-bas à côté de l'enclos."
           ]
-        }
+        },
+        "correct-words": "du stylo.",
+        "incorrect-words": "de l'enclos."
       }
     ]
   },
@@ -2110,7 +2314,9 @@
             "Ô, j'aime bien tes... les machins qui tiennent ton pantalon.",
             "C'est un appareil dentaire."
           ]
-        }
+        },
+        "correct-words": "Ce sont des bretelles.",
+        "incorrect-words": "C'est un appareil dentaire."
       },
       {
         "src": [
@@ -2126,7 +2332,9 @@
             "Ô, quel joli sourire, malgré ce truc sur tes dents.",
             "Ce sont des bretelles."
           ]
-        }
+        },
+        "correct-words": "C'est un appareil dentaire.",
+        "incorrect-words": "Ce sont des bretelles."
       }
     ]
   },
@@ -2151,7 +2359,9 @@
             "Elle arrive toujours à trouver des dingues.",
             "Je sais. Le dernier était une vraie noix."
           ]
-        }
+        },
+        "correct-words": "un vrai fou.",
+        "incorrect-words": "une vraie noix."
       },
       {
         "src": [
@@ -2167,7 +2377,9 @@
             "Elle doit faire attention avec ses amuse-gueules - elle est allergique, tu sais.",
             "Je sais. Le dernier était un vrai fou."
           ]
-        }
+        },
+        "correct-words": "une vraie noix.",
+        "incorrect-words": "un vrai fou."
       }
     ]
   },
@@ -2192,7 +2404,9 @@
             "Passe-moi les armes.",
             "Fais gaffe de ne pas faire tomber la barrette !"
           ]
-        }
+        },
+        "correct-words": "le chargeur",
+        "incorrect-words": "la barrette"
       },
       {
         "src": [
@@ -2208,7 +2422,9 @@
             "Tiens ces cheveux et je vais attacher l'autre mèche ici.",
             "Fais gaffe de ne pas faire tomber le chargeur !"
           ]
-        }
+        },
+        "correct-words": "la barrette",
+        "incorrect-words": "le chargeur"
       }
     ]
   },
@@ -2233,7 +2449,9 @@
             "Mais il faut de bons ongles pour jouer de la guitare.",
             "C'est peut-être plus facile avec une pioche."
           ]
-        }
+        },
+        "correct-words": "un médiator.",
+        "incorrect-words": "une pioche."
       },
       {
         "src": [
@@ -2249,7 +2467,9 @@
             "Cette terre est dure comme du béton.",
             "C'est peut-être plus facile avec un médiator."
           ]
-        }
+        },
+        "correct-words": "une pioche.",
+        "incorrect-words": "un médiator."
       }
     ]
   },
@@ -2274,7 +2494,9 @@
             "Hé ! J'avais faim et c'était le mien!",
             "C'est mon tour maintenant !"
           ]
-        }
+        },
+        "correct-words": "sandwich",
+        "incorrect-words": "tour"
       },
       {
         "src": [
@@ -2290,7 +2512,9 @@
             "Donc je fais avancer mon pion de quatre cases.",
             "C'est mon sandwich maintenant !"
           ]
-        }
+        },
+        "correct-words": "tour",
+        "incorrect-words": "sandwich"
       }
     ]
   },
@@ -2315,7 +2539,9 @@
             "Je joue deux cœurs.",
             "J'ai une boîte de nuit."
           ]
-        }
+        },
+        "correct-words": "un trèfle.",
+        "incorrect-words": "une boîte de nuit."
       },
       {
         "src": [
@@ -2331,7 +2557,9 @@
             "Donc on m'a dit que vous teniez un bar...",
             "J'ai un trèfle."
           ]
-        }
+        },
+        "correct-words": "une boîte de nuit.",
+        "incorrect-words": "un trèfle."
       }
     ]
   },
@@ -2356,7 +2584,9 @@
             "Je sais qu'il était là, quelque part derrière les feuilles.",
             "Là, sur la trompe."
           ]
-        }
+        },
+        "correct-words": "le tronc.",
+        "incorrect-words": "la trompe."
       },
       {
         "src": [
@@ -2372,7 +2602,9 @@
             "Le pauvre éléphant a malheureusement quelques blessures.",
             "Là, sur le tronc."
           ]
-        }
+        },
+        "correct-words": "la trompe.",
+        "incorrect-words": "le tronc."
       }
     ]
   },
@@ -2397,7 +2629,9 @@
             "Le capitaine dit qu'on navigue en direction de la France.",
             "Il veut quel porto ?"
           ]
-        }
+        },
+        "correct-words": "port",
+        "incorrect-words": "porto"
       },
       {
         "src": [
@@ -2413,7 +2647,9 @@
             "Ils ont fini le plat principal et ils réclament le dessert.",
             "Il veut quel port ?"
           ]
-        }
+        },
+        "correct-words": "porto",
+        "incorrect-words": "port"
       }
     ]
   },
@@ -2438,7 +2674,9 @@
             "Merci - le dîner et le service était parfait.",
             "Merci pour ton conseil."
           ]
-        }
+        },
+        "correct-words": "le pourboire.",
+        "incorrect-words": "ton conseil."
       },
       {
         "src": [
@@ -2454,7 +2692,9 @@
             "C'est ce que je ferais...",
             "Merci pour le pourboire."
           ]
-        }
+        },
+        "correct-words": "ton conseil.",
+        "incorrect-words": "le pourboire."
       }
     ]
   },
@@ -2479,7 +2719,9 @@
             "Est-ce que tu as pu enregister ça ?",
             "Désolé, on vient de finir le rouleau."
           ]
-        }
+        },
+        "correct-words": "était arrivés à la fin la cassette.",
+        "incorrect-words": "vient finir le rouleau."
       },
       {
         "src": [
@@ -2495,7 +2737,9 @@
             "Mets juste un dernier morceau ici pour le fermer",
             "Désolé, on était arrivés à la fin de la cassette."
           ]
-        }
+        },
+        "correct-words": "vient finir le rouleau.",
+        "incorrect-words": "était arrivés à la fin la cassette."
       }
     ]
   },
@@ -2520,7 +2764,9 @@
             "Ils courent le risque d'être renvoyé en prison.",
             "Mais ils ne pourront plus ignorer la saleté très longtemps."
           ]
-        }
+        },
+        "correct-words": "échapper aux flics",
+        "incorrect-words": "ignorer la saleté"
       },
       {
         "src": [
@@ -2536,7 +2782,9 @@
             "Ils peuvent répandre du parfum tant qu'ils veulent.",
             "Mais ils ne pourront plus échapper aux flics très longtemps."
           ]
-        }
+        },
+        "correct-words": "ignorer la saleté",
+        "incorrect-words": "échapper aux flics"
       }
     ]
   },
@@ -2561,7 +2809,9 @@
             "Son nom a été enlevé du... du...",
             "Du conseil."
           ]
-        }
+        },
+        "correct-words": "tableau.",
+        "incorrect-words": "conseil."
       },
       {
         "src": [
@@ -2577,7 +2827,9 @@
             "Il a été viré du... du...",
             "Du tableau."
           ]
-        }
+        },
+        "correct-words": "conseil.",
+        "incorrect-words": "tableau."
       }
     ]
   },
@@ -2602,7 +2854,9 @@
             "Ceci vient d'arriver, mais je ne sais pas qui a pu l'envoyer.",
             "Est-ce que vous avez vérifié le phoque ?"
           ]
-        }
+        },
+        "correct-words": "cachet",
+        "incorrect-words": "phoque"
       },
       {
         "src": [
@@ -2618,7 +2872,9 @@
             "Les manchots ont été libérés.",
             "Est-ce que vous avez vérifié le cachet ?"
           ]
-        }
+        },
+        "correct-words": "phoque",
+        "incorrect-words": "cachet"
       }
     ]
   },
@@ -2643,7 +2899,9 @@
             "Le président nous rejoindra dans cinq minutes.",
             "Pourquoi la chaise est-elle là ?"
           ]
-        }
+        },
+        "correct-words": "le président est-il",
+        "incorrect-words": "la chaise est-elle"
       },
       {
         "src": [
@@ -2659,7 +2917,9 @@
             "Est-ce que ça vous dérange que je déplace la chaise ?",
             "Pourquoi le président est-il là ?"
           ]
-        }
+        },
+        "correct-words": "la chaise est-elle",
+        "incorrect-words": "le président est-il"
       }
     ]
   },
@@ -2684,7 +2944,9 @@
             "Nous avons réfléchi et nous aimerions bien organiser un bal ce weekend.",
             "Un ballon !"
           ]
-        }
+        },
+        "correct-words": "bal",
+        "incorrect-words": "ballon"
       },
       {
         "src": [
@@ -2700,7 +2962,9 @@
             "Je t'acheterai une seule chose : soit un ballon soit un yoyo.",
             "Un bal !"
           ]
-        }
+        },
+        "correct-words": "ballon",
+        "incorrect-words": "bal"
       }
     ]
   },
@@ -2725,7 +2989,9 @@
             "L'aquarium perd de l'eau.",
             "Il doit y avoir un trou dans la citerne quelque part."
           ]
-        }
+        },
+        "correct-words": "l'aquarium",
+        "incorrect-words": "la citerne"
       },
       {
         "src": [
@@ -2741,7 +3007,9 @@
             "Il y a de l'huile partout.",
             "Il doit y avoir un trou dans l'aquarium quelque part."
           ]
-        }
+        },
+        "correct-words": "la citerne",
+        "incorrect-words": "l'aquarium"
       }
     ]
   },
@@ -2766,7 +3034,9 @@
             "Je n'arrive pas à trouver un jeu de cartes complet.",
             "On va devoir faire sans le tison alors."
           ]
-        }
+        },
+        "correct-words": "oublier poker",
+        "incorrect-words": "faire sans tison"
       },
       {
         "src": [
@@ -2782,7 +3052,9 @@
             "Le tison est utilisé pour soutenir la table.",
             "On va devoir oublier le poker alors."
           ]
-        }
+        },
+        "correct-words": "faire sans tison",
+        "incorrect-words": "oublier poker"
       }
     ]
   },
@@ -2807,7 +3079,9 @@
             "Je devrais probablement partir maintenant.",
             "Mais c'est ta place ici."
           ]
-        }
+        },
+        "correct-words": "on est chez toi",
+        "incorrect-words": "c'est ta place"
       },
       {
         "src": [
@@ -2823,7 +3097,9 @@
             "Je vais aller trouver une place là-bas.",
             "Mais on est chez toi ici."
           ]
-        }
+        },
+        "correct-words": "c'est ta place",
+        "incorrect-words": "on est chez toi"
       }
     ]
   },
@@ -2848,7 +3124,9 @@
             "Si vous ne vous entraînez pas plus, on ne va pas gagner la coupe.",
             "Je n'ai rien à faire de la tasse."
           ]
-        }
+        },
+        "correct-words": "coupe.",
+        "incorrect-words": "tasse."
       },
       {
         "src": [
@@ -2864,7 +3142,9 @@
             "Tu as cassé la tasse !",
             "Je n'ai rien à faire de la coupe."
           ]
-        }
+        },
+        "correct-words": "tasse.",
+        "incorrect-words": "coupe."
       }
     ]
   },
@@ -2889,7 +3169,9 @@
             "Le verdict n'est pas bon.",
             "Quelle est la dernière phrase ?"
           ]
-        }
+        },
+        "correct-words": "Quel le jugement final",
+        "incorrect-words": "Quelle la dernière phrase"
       },
       {
         "src": [
@@ -2905,7 +3187,9 @@
             "Est-ce vous avez déjà fini le texte ?",
             "Quel est le jugement final ?"
           ]
-        }
+        },
+        "correct-words": "Quelle la dernière phrase",
+        "incorrect-words": "Quel le jugement final"
       }
     ]
   },
@@ -2930,7 +3214,9 @@
             "Elle a vraiment déçu ses fans ce soir-là.",
             "Les ventilateurs étaient toujours hors service."
           ]
-        }
+        },
+        "correct-words": "fans sont allés trop loin.",
+        "incorrect-words": "ventilateurs étaient toujours hors service."
       },
       {
         "src": [
@@ -2946,7 +3232,9 @@
             "C'était vraiment étouffant dans la salle de réunion.",
             "Les fans sont allés trop loin."
           ]
-        }
+        },
+        "correct-words": "ventilateurs étaient toujours hors service.",
+        "incorrect-words": "fans sont allés trop loin."
       }
     ]
   },
@@ -2971,7 +3259,9 @@
             "L'eau déborde de la baignoire!",
             "Débranche vite la prise !"
           ]
-        }
+        },
+        "correct-words": "Enlève bonde",
+        "incorrect-words": "Débranche prise"
       },
       {
         "src": [
@@ -2987,7 +3277,9 @@
             "Il y a un problème électrique.",
             "Enlève vite la bonde !"
           ]
-        }
+        },
+        "correct-words": "Débranche prise",
+        "incorrect-words": "Enlève bonde"
       }
     ]
   },
@@ -3012,7 +3304,9 @@
             "On pourrait utiliser une brosse pour démêler les cheveux.",
             "Je pense qu'on ne devrait pas utiliser un pinceau."
           ]
-        }
+        },
+        "correct-words": "une brosse.",
+        "incorrect-words": "un pinceau."
       },
       {
         "src": [
@@ -3028,7 +3322,9 @@
             "On pourrait commencer avec les pinceaux là-bas.",
             "Je pense qu'on ne devrait pas utiliser une brosse."
           ]
-        }
+        },
+        "correct-words": "un pinceau.",
+        "incorrect-words": "une brosse."
       }
     ]
   },
@@ -3053,7 +3349,9 @@
             "Quelles autres caractéristiques à part l'airbag...",
             "Il y a le cor."
           ]
-        }
+        },
+        "correct-words": "klaxon.",
+        "incorrect-words": "cor."
       },
       {
         "src": [
@@ -3069,7 +3367,9 @@
             "Quels autres instruments à part la trompette...",
             "Il y a le klaxon."
           ]
-        }
+        },
+        "correct-words": "cor.",
+        "incorrect-words": "klaxon."
       }
     ]
   },
@@ -3094,7 +3394,9 @@
             "Est-ce que Rebecca vient dans l'avion avec nous ?",
             "Elle nous attend dans la cabane."
           ]
-        }
+        },
+        "correct-words": "cabine.",
+        "incorrect-words": "cabane."
       },
       {
         "src": [
@@ -3110,7 +3412,9 @@
             "Est-ce que Rebecca vient faire la randonnée avec nous ?",
             "Elle nous attend dans la cabine."
           ]
-        }
+        },
+        "correct-words": "cabane.",
+        "incorrect-words": "cabine."
       }
     ]
   },
@@ -3135,7 +3439,9 @@
             "Oh non, ce n'est pas un secret - je le sais déjà.",
             "Est-ce que quelqu'un a fait sortir le chat du sac ?"
           ]
-        }
+        },
+        "correct-words": "vendu la mèche",
+        "incorrect-words": "fait sortir le chat du sac"
       },
       {
         "src": [
@@ -3151,7 +3457,9 @@
             "C'est quoi ce miaulement ?",
             "Est-ce que quelqu'un a vendu la mèche ?"
           ]
-        }
+        },
+        "correct-words": "fait sortir le chat du sac",
+        "incorrect-words": "vendu la mèche"
       }
     ]
   },
@@ -3176,7 +3484,9 @@
             "Pourquoi ils me klaxonnent ?",
             "Tu ne vois pas la lumière rouge ?"
           ]
-        }
+        },
+        "correct-words": "le feu",
+        "incorrect-words": "la lumière"
       },
       {
         "src": [
@@ -3192,7 +3502,9 @@
             "Il est peut-être en veille, mais je ne suis pas sûr.",
             "Tu ne vois pas le feu rouge ?"
           ]
-        }
+        },
+        "correct-words": "la lumière",
+        "incorrect-words": "le feu"
       }
     ]
   },
@@ -3217,7 +3529,9 @@
             "Et que penses-tu des tigres ?",
             "Oh, ce sont mes chats favoris."
           ]
-        }
+        },
+        "correct-words": "fauves",
+        "incorrect-words": "chats"
       },
       {
         "src": [
@@ -3233,7 +3547,9 @@
             "Et que penses-tu des chats tigrés ?",
             "Oh, ce sont mes fauves favoris."
           ]
-        }
+        },
+        "correct-words": "chats",
+        "incorrect-words": "fauves"
       }
     ]
   },
@@ -3258,7 +3574,9 @@
             "Et qu'est-ce que le médecin t'a dit ?",
             "Ils auraient probablement dû prendre la laisse."
           ]
-        }
+        },
+        "correct-words": "enlever le plomb.",
+        "incorrect-words": "prendre la laisse."
       },
       {
         "src": [
@@ -3274,7 +3592,9 @@
             "Alors comment ça s'est passé avec le nouveau chiot?",
             "Ils auraient probablement dû enlever le plomb."
           ]
-        }
+        },
+        "correct-words": "prendre la laisse.",
+        "incorrect-words": "enlever le plomb."
       }
     ]
   },
@@ -3299,7 +3619,9 @@
             "Est-ce que vous avez eu des problèmes avec l'alarme récemment ?",
             "Elle a tourné la semaine dernière..."
           ]
-        }
+        },
+        "correct-words": "s'est déclenchée",
+        "incorrect-words": "a tourné"
       },
       {
         "src": [
@@ -3315,7 +3637,9 @@
             "Est-ce que tu penses que la crème est bonne à boire ?",
             "Elle s'est déclenchée la semaine dernière..."
           ]
-        }
+        },
+        "correct-words": "a tourné",
+        "incorrect-words": "s'est déclenchée"
       }
     ]
   },
@@ -3340,7 +3664,9 @@
             "Je n'y crois pas que tu aies mangé un seul carreau.",
             "Tu aurais pu boire le bar entier si tu l'avais voulu."
           ]
-        }
+        },
+        "correct-words": "manger la barre entière voulue.",
+        "incorrect-words": "boire le bar entier voulu."
       },
       {
         "src": [
@@ -3356,7 +3682,9 @@
             "Je suis étonnée par ta modération avec l'alcool.",
             "Tu aurais pu manger la barre entière si tu l'avais voulue."
           ]
-        }
+        },
+        "correct-words": "boire le bar entier voulu.",
+        "incorrect-words": "manger la barre entière voulue."
       }
     ]
   },
@@ -3381,7 +3709,9 @@
             "Les pauvres vignes ne supportent pas bien la sécheresse.",
             "Je sais - heureusement qu'il y avait des douches hier."
           ]
-        }
+        },
+        "correct-words": "a eu averses",
+        "incorrect-words": "avait douches"
       },
       {
         "src": [
@@ -3397,7 +3727,9 @@
             "On va finir par puer à la fin du weekend.",
             "Je sais - heureusement qu'il y a eu des averses hier."
           ]
-        }
+        },
+        "correct-words": "avait douches",
+        "incorrect-words": "a eu averses"
       }
     ]
   },
@@ -3421,7 +3753,9 @@
             "Est-ce que vous voulez quelque chose à boire, Monsieur ?",
             "Tu as de la coke ?"
           ]
-        }
+        },
+        "correct-words": "Est-ce que vous avez du coca",
+        "incorrect-words": "Tu as de la coke"
       },
       {
         "src": [
@@ -3437,7 +3771,9 @@
             "Ça te dit de se défoncer ce soir?",
             "Est-ce que vous avez du coca ?"
           ]
-        }
+        },
+        "correct-words": "Tu as de la coke",
+        "incorrect-words": "Est-ce que vous avez du coca"
       }
     ]
   },
@@ -3462,7 +3798,9 @@
             "Oh dépêche-toi s'il te plaît.",
             "Mon savon me manque."
           ]
-        }
+        },
+        "correct-words": "Je suis en train de rater mon soap.",
+        "incorrect-words": "Mon savon me manque."
       },
       {
         "src": [
@@ -3478,7 +3816,9 @@
             "Comment tu gères le quotidien, l'hygiène et tout ça ?",
             "Je suis en train de rater mon soap."
           ]
-        }
+        },
+        "correct-words": "Mon savon me manque.",
+        "incorrect-words": "Je suis en train de rater mon soap."
       }
     ]
   },
@@ -3503,7 +3843,9 @@
             "La pizza est dans le four, mais il reste de la pâte.",
             "Je n'ai jamais vu autant de thune !"
           ]
-        }
+        },
+        "correct-words": "pâte",
+        "incorrect-words": "thune"
       },
       {
         "src": [
@@ -3519,7 +3861,9 @@
             "Tiens - tu l'as mérité.",
             "Je n'ai jamais vu autant de pâte !"
           ]
-        }
+        },
+        "correct-words": "thune",
+        "incorrect-words": "pâte"
       }
     ]
   },
@@ -3544,7 +3888,9 @@
             "C'est un très joli dessin que tu as fait là.",
             "C'est encore un peu mal famé."
           ]
-        }
+        },
+        "correct-words": "brouillon.",
+        "incorrect-words": "peu mal famé."
       },
       {
         "src": [
@@ -3560,7 +3906,9 @@
             "Apparemment le quartier s'est beaucoup amélioré depuis qu'on était gosses.",
             "C'est encore un brouillon."
           ]
-        }
+        },
+        "correct-words": "peu mal famé.",
+        "incorrect-words": "brouillon."
       }
     ]
   },
@@ -3585,7 +3933,9 @@
             "Est-ce qu'on mange le poulet ce soir?",
             "Je n'ai pas eu le courage de l'épiler."
           ]
-        }
+        },
+        "correct-words": "le plumer.",
+        "incorrect-words": "l'épiler."
       },
       {
         "src": [
@@ -3601,7 +3951,9 @@
             "Ce poil est toujours là, tu sais.",
             "Je n'ai pas eu le courage de le plumer."
           ]
-        }
+        },
+        "correct-words": "l'épiler.",
+        "incorrect-words": "le plumer."
       }
     ]
   },
@@ -3626,7 +3978,9 @@
             "Je regretterai ne plus avoir à m'occuper de mes carottes.",
             "C'était une intrigue sympa, mais toute bonne chose a une fin."
           ]
-        }
+        },
+        "correct-words": "jolie parcelle,",
+        "incorrect-words": "intrigue sympa,"
       },
       {
         "src": [
@@ -3642,7 +3996,9 @@
             "Je ne sais pas pour toi, mais j'ai été déçue par le troisième volume.",
             "C'était une jolie parcelle, mais toute bonne chose a une fin."
           ]
-        }
+        },
+        "correct-words": "intrigue sympa,",
+        "incorrect-words": "jolie parcelle,"
       }
     ]
   },
@@ -3667,7 +4023,9 @@
             "On l'a trouvée parmi des branches cassées, mais relativement indemne.",
             "L'auvent a dû amortir sa chute."
           ]
-        }
+        },
+        "correct-words": "La canopée",
+        "incorrect-words": "L'auvent"
       },
       {
         "src": [
@@ -3683,7 +4041,9 @@
             "Elle était allongée dans la véranda, avec quelques bleus mais rien de plus.",
             "La canopée a dû amortir sa chute."
           ]
-        }
+        },
+        "correct-words": "L'auvent",
+        "incorrect-words": "La canopée"
       }
     ]
   },
@@ -3708,7 +4068,9 @@
             "Attendez une seconde que le train s'arrête complètement.",
             "Vous pouvez vous retirer maintenant."
           ]
-        }
+        },
+        "correct-words": "descendre",
+        "incorrect-words": "vous retirer"
       },
       {
         "src": [
@@ -3724,7 +4086,9 @@
             "Je n'ai plus de questions, Madame le Juge.",
             "Vous pouvez descendre maintenant."
           ]
-        }
+        },
+        "correct-words": "vous retirer",
+        "incorrect-words": "descendre"
       }
     ]
   },
@@ -3749,7 +4113,9 @@
             "Qu'est-ce que vous en pensez de 50£ ?",
             "C'est un peu plus raide que ce que je pensais."
           ]
-        }
+        },
+        "correct-words": "cher",
+        "incorrect-words": "raide"
       },
       {
         "src": [
@@ -3765,7 +4131,9 @@
             "Comment vont tes pieds ?",
             "C'est un peu plus cher que ce que je pensais."
           ]
-        }
+        },
+        "correct-words": "raide",
+        "incorrect-words": "cher"
       }
     ]
   },
@@ -3790,7 +4158,9 @@
             "Mais qu'est-ce qui vient de se passer ? Comment s'attend-il à ce qu'on lui fasse confiance ?",
             "Il est en train d'aboyer."
           ]
-        }
+        },
+        "correct-words": "complètement cinglé.",
+        "incorrect-words": "en train d'aboyer."
       },
       {
         "src": [
@@ -3806,7 +4176,9 @@
             "Qu’est-ce qu’il a mon chien ?",
             "Il est complètement cinglé."
           ]
-        }
+        },
+        "correct-words": "en train d'aboyer.",
+        "incorrect-words": "complètement cinglé."
       }
     ]
   },
@@ -3831,7 +4203,9 @@
             "Nous devons juste faire un trou ici.",
             "Passe-moi les emporte-pièces."
           ]
-        }
+        },
+        "correct-words": "le cutter.",
+        "incorrect-words": "les emporte-pièces."
       },
       {
         "src": [
@@ -3847,7 +4221,9 @@
             "La farine est mise, la pâte est étalée.",
             "Passe-moi le cutter."
           ]
-        }
+        },
+        "correct-words": "les emporte-pièces.",
+        "incorrect-words": "le cutter."
       }
     ]
   },
@@ -3872,7 +4248,9 @@
             "Tu as vu le nouveau mec du première étage ?",
             "Quel plat !"
           ]
-        }
+        },
+        "correct-words": "beau gosse",
+        "incorrect-words": "plat"
       },
       {
         "src": [
@@ -3888,7 +4266,9 @@
             "Je n'ai jamais rien vu d'aussi incroyablement délicieux !",
             "Quel beau gosse !"
           ]
-        }
+        },
+        "correct-words": "plat",
+        "incorrect-words": "beau gosse"
       }
     ]
   },
@@ -3913,7 +4293,9 @@
             "Je pourrais prendre quelque chose de plus serré aux hanches.",
             "C'est déjà assez tendu à mon avis."
           ]
-        }
+        },
+        "correct-words": "serré",
+        "incorrect-words": "tendu"
       },
       {
         "src": [
@@ -3929,7 +4311,9 @@
             "Tends un peu plus la corde.",
             "C'est déjà assez serré à mon avis."
           ]
-        }
+        },
+        "correct-words": "tendu",
+        "incorrect-words": "serré"
       }
     ]
   },
@@ -3954,7 +4338,9 @@
             "Neil prépare quelques tracts.",
             "Oh, il va être au rallye aussi !"
           ]
-        }
+        },
+        "correct-words": "à la manif",
+        "incorrect-words": "au rallye"
       },
       {
         "src": [
@@ -3970,7 +4356,9 @@
             "Neil aurait préféré être au volant plutôt que spectateur.",
             "Oh, il va être à la manif aussi !"
           ]
-        }
+        },
+        "correct-words": "au rallye",
+        "incorrect-words": "à la manif"
       }
     ]
   },
@@ -3995,7 +4383,9 @@
             "Mais qui va lui tenir tête ?",
             "Si quelqu'un peut la prendre en charge, c'est bien toi."
           ]
-        }
+        },
+        "correct-words": "l'affronter,",
+        "incorrect-words": "la prendre en charge,"
       },
       {
         "src": [
@@ -4011,7 +4401,9 @@
             "Mais dans un tel pitieux état, qui va s'en occuper ?",
             "Si quelqu'un peut l'affronter, c'est bien toi."
           ]
-        }
+        },
+        "correct-words": "la prendre en charge,",
+        "incorrect-words": "l'affronter,"
       }
     ]
   },
@@ -4036,7 +4428,9 @@
             "Vous avez été tellement extraordinaires avec moi ces derniers mois.",
             "C'est tellement sucré."
           ]
-        }
+        },
+        "correct-words": "adorable.",
+        "incorrect-words": "sucré."
       },
       {
         "src": [
@@ -4052,7 +4446,9 @@
             "Goûte - c'est comme une explosion de sucre !",
             "C'est tellement adorable."
           ]
-        }
+        },
+        "correct-words": "sucré.",
+        "incorrect-words": "adorable."
       }
     ]
   },
@@ -4077,7 +4473,9 @@
             "Sauf si tu veux passer ta vie à l'envers.",
             "Une batte, par exemple ?"
           ]
-        }
+        },
+        "correct-words": "Comme une chauve-souris",
+        "incorrect-words": "Une batte, par exemple"
       },
       {
         "src": [
@@ -4093,7 +4491,9 @@
             "Est-ce que tu as besoin de quelque chose pour le match, fiston ?",
             "Comme une chauve-souris ?"
           ]
-        }
+        },
+        "correct-words": "Une batte, par exemple",
+        "incorrect-words": "Comme une chauve-souris"
       }
     ]
   }
