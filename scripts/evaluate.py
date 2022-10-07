@@ -59,8 +59,8 @@ def scores2analysis_lexical_choice(score_file, testjson, maximise=False):
                 exit(str(type_coh)+" is not a real type")
                 
             # get one score for each translation (first correct, then contrastive)
-            score_correct = float(tfp.readline().strip())
-            score_incorrect=float(tfp.readline().strip())
+            score_correct = float(tfp.readline().strip().split()[0])
+            score_incorrect=float(tfp.readline().strip().split()[0])
 
             # lower is better, compare the scores
             if (maximise and score_correct > score_incorrect) or \
@@ -168,8 +168,8 @@ def scores2analysis_anaphora(score_file, testjson, maximise=False):
             # get correct and incorrect translations and their scores
             correct = t[exampletype]
             incorrect = t["incorrect"]
-            score_correct = float(tfp.readline().strip())
-            score_incorrect = float(tfp.readline().strip())
+            score_correct = float(tfp.readline().strip().split()[0])
+            score_incorrect = float(tfp.readline().strip().split()[0])
 
             
             # compare raw scores and mark as correct or incorrect
