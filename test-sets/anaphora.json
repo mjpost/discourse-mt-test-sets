@@ -18,7 +18,15 @@
           "Les bâtiments seront terminés la semaine prochaine.",
           "Elles seront bientôt pleines de nouveaux résidents."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils",
+          "pleins"
+        ],
+        "incorrect-words": [
+          "Elles",
+          "pleines"
+        ]
       },
       {
         "correct": [
@@ -29,7 +37,15 @@
           "Les immeubles seront terminés la semaine prochaine.",
           "Elles seront bientôt pleines de nouveaux résidents."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils",
+          "pleins"
+        ],
+        "incorrect-words": [
+          "Elles",
+          "pleines"
+        ]
       },
       {
         "semi-correct": [
@@ -40,7 +56,15 @@
           "Les maisons seront terminées la semaine prochaine.",
           "Ils seront bientôt pleins de nouveaux résidents."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles",
+          "pleines"
+        ],
+        "incorrect-words": [
+          "Ils",
+          "pleins"
+        ]
       },
       {
         "semi-correct": [
@@ -51,7 +75,15 @@
           "Les résidences seront terminées la semaine prochaine.",
           "Ils seront bientôt pleins de nouveaux résidents."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles",
+          "pleines"
+        ],
+        "incorrect-words": [
+          "Ils",
+          "pleins"
+        ]
       }
     ]
   },
@@ -74,7 +106,13 @@
           "Les individus qui ont fait ça sont vraiment ignobles.",
           "Je sais, comment est-ce qu’elles ont pu laisser la salle dans un tel état ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "qu’ils"
+        ],
+        "incorrect-words": [
+          "qu’elles"
+        ]
       },
       {
         "correct": [
@@ -85,7 +123,13 @@
           "Les personnes qui ont fait ça sont vraiment ignobles.",
           "Je sais, comment est-ce qu’ils ont pu laisser la salle dans un tel état ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "qu’elles"
+        ],
+        "incorrect-words": [
+          "qu’ils"
+        ]
       },
       {
         "semi-correct": [
@@ -96,7 +140,13 @@
           "Les hommes qui ont fait ça sont vraiment ignobles.",
           "Je sais, comment est-ce qu’elles ont pu laisser la salle dans un tel état ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "qu’ils"
+        ],
+        "incorrect-words": [
+          "qu’elles"
+        ]
       },
       {
         "semi-correct": [
@@ -107,7 +157,13 @@
           "Les femmes qui ont fait ça sont vraiment ignobles.",
           "Je sais, comment est-ce qu’ils ont pu laisser la salle dans un tel état ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "qu’elles"
+        ],
+        "incorrect-words": [
+          "qu’ils"
+        ]
       }
     ]
   },
@@ -130,7 +186,13 @@
           "Susan, vous ne croiriez pas une histoire pareille, si ?",
           "Non, je ne voudrais pas le croire."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -141,7 +203,13 @@
           "Susan, tu ne croirais pas un truc pareil, si ?",
           "Non, je ne voudrais pas la croire."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -152,7 +220,13 @@
           "Susan, tu ne croirais pas une intrigue pareille, si ?",
           "Non, je ne voudrais pas le croire."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -163,7 +237,13 @@
           "Susan, tu ne croirais pas un récit pareil, si ?",
           "Non, je ne voudrais pas la croire."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       }
     ]
   },
@@ -186,7 +266,15 @@
           "Donc tu vois à quel point les implications sont mauvaises.",
           "Oui, ils sont vraiment dévastateurs."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles",
+          "dévastatrices."
+        ],
+        "incorrect-words": [
+          "dévastateurs.",
+          "ils"
+        ]
       },
       {
         "correct": [
@@ -197,7 +285,15 @@
           "Donc vous voyez à quel point les effets sont mauvais.",
           "Oui, elles sont vraiment dévastatrices."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "dévastateurs.",
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles",
+          "dévastatrices."
+        ]
       },
       {
         "semi-correct": [
@@ -208,7 +304,15 @@
           "Donc vous voyez à quel point les accusations sont mauvaises.",
           "Oui, ils sont vraiment dévastateurs."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles",
+          "dévastatrices."
+        ],
+        "incorrect-words": [
+          "dévastateurs.",
+          "ils"
+        ]
       },
       {
         "semi-correct": [
@@ -219,7 +323,15 @@
           "Donc vous voyez à quel point les témoignages sont mauvais.",
           "Oui, elles sont vraiment dévastatrices."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "dévastateurs.",
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles",
+          "dévastatrices."
+        ]
       }
     ]
   },
@@ -242,7 +354,15 @@
           "Mais comment tu sais que le mec ne finira pas comme tous les autres ?",
           "Celle-ci est différente."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "différent.",
+          "Celui-ci"
+        ],
+        "incorrect-words": [
+          "différente.",
+          "Celle-ci"
+        ]
       },
       {
         "correct": [
@@ -253,7 +373,15 @@
           "Mais comment tu sais que l'homme ne finira pas comme tous les autres ?",
           "Celle-ci est différente."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "différent.",
+          "Celui-ci"
+        ],
+        "incorrect-words": [
+          "différente.",
+          "Celle-ci"
+        ]
       },
       {
         "semi-correct": [
@@ -264,7 +392,15 @@
           "Mais comment tu sais que la femme ne finira pas comme toutes les autres ?",
           "Celui-ci est différent."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "différente.",
+          "Celle-ci"
+        ],
+        "incorrect-words": [
+          "différent.",
+          "Celui-ci"
+        ]
       },
       {
         "semi-correct": [
@@ -275,7 +411,15 @@
           "Mais comment tu sais que la fille ne finira pas comme toutes les autres ?",
           "Celui-ci est différent."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "différente.",
+          "Celle-ci"
+        ],
+        "incorrect-words": [
+          "différent.",
+          "Celui-ci"
+        ]
       }
     ]
   },
@@ -298,7 +442,13 @@
           "Tu te souviens de quand on m'a attrapé en train de voler des bonbons lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "pris"
+        ],
+        "incorrect-words": [
+          "prises"
+        ]
       },
       {
         "correct": [
@@ -309,7 +459,13 @@
           "Tu te souviens de quand on m'a attrapé en train de voler des dragées lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "prises"
+        ],
+        "incorrect-words": [
+          "pris"
+        ]
       },
       {
         "semi-correct": [
@@ -320,7 +476,13 @@
           "Tu te souviens de quand on m'a attrapé en train de voler des gâteaux lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a prises !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "pris"
+        ],
+        "incorrect-words": [
+          "prises"
+        ]
       },
       {
         "semi-correct": [
@@ -331,7 +493,13 @@
           "Tu te souviens de quand on m'a attrapé en train de voler des tasses lorsque j'étais en train de quitter le magasin ?",
           "Pendant qu'ils étaient en train de parler au policier, mon pote les a pris !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "prises"
+        ],
+        "incorrect-words": [
+          "pris"
+        ]
       }
     ]
   },
@@ -354,7 +522,13 @@
           "Ô je déteste les mouches. Regarde, il y en a une autre !",
           "T'inquiète, je le tuerai pour toi."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -365,7 +539,13 @@
           "Ô je déteste les moucherons. Regarde, un autre !",
           "T'inquiète, je la tuerai pour toi."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -376,7 +556,13 @@
           "Ô je déteste les papillons. Regarde, un autre !",
           "Ne t'inquiète pas, je la tuerai pour toi."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -387,7 +573,13 @@
           "Ô je déteste les araignées. Regarde, une autre !",
           "Ne t'inquiète pas, je le tuerai pour toi."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       }
     ]
   },
@@ -410,7 +602,13 @@
           "Vous n'appréciez pas mon appareil ?",
           "Vous devez la ranger, Monsieur."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "correct": [
@@ -421,7 +619,13 @@
           "Vous n'appréciez pas ma caméra ?",
           "Vous devez le ranger, Monsieur."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -432,7 +636,13 @@
           "Vous n'appréciez pas mon chapeau ?",
           "Vous devez la ranger, Monsieur."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -443,7 +653,13 @@
           "Vous n'appréciez pas ma perruche ?",
           "Vous devez le ranger, Monsieur."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       }
     ]
   },
@@ -466,7 +682,15 @@
           "Que penses-tu d'un sandwich ?",
           "Je n'en ai qu'une, mais on pourrait la partager..."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "qu'un,",
+          "le"
+        ],
+        "incorrect-words": [
+          "la",
+          "qu'une,"
+        ]
       },
       {
         "correct": [
@@ -477,7 +701,15 @@
           "Que penses-tu d'une baguette ?",
           "Je n'en ai qu'un, mais on pourrait le partager..."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la",
+          "qu'une,"
+        ],
+        "incorrect-words": [
+          "qu'un,",
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -488,7 +720,15 @@
           "Que penses-tu d'une galette ?",
           "Je n'en ai qu'un, mais on pourrait le partager..."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la",
+          "qu'une,"
+        ],
+        "incorrect-words": [
+          "qu'un,",
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -499,7 +739,15 @@
           "Que penses-tu d'un biscuit ?",
           "Je n'en ai qu'une, mais on pourrait la partager..."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "qu'un,",
+          "le"
+        ],
+        "incorrect-words": [
+          "la",
+          "qu'une,"
+        ]
       }
     ]
   },
@@ -522,7 +770,13 @@
           "Ce sont des baskets, d'accord ?",
           "Comment est-ce qu'ils te rendent si grand ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "qu'elles"
+        ],
+        "incorrect-words": [
+          "qu'ils"
+        ]
       },
       {
         "correct": [
@@ -533,7 +787,13 @@
           "Ce sont des tennis, d'accord ?",
           "Comment est-ce qu'ils te rendent si grand ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "qu'elles"
+        ],
+        "incorrect-words": [
+          "qu'ils"
+        ]
       },
       {
         "semi-correct": [
@@ -544,7 +804,13 @@
           "Ce sont des talons, d'accord ?",
           "Comment est-ce qu'elles te rendent si grand ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "qu'ils"
+        ],
+        "incorrect-words": [
+          "qu'elles"
+        ]
       },
       {
         "semi-correct": [
@@ -555,7 +821,13 @@
           "Ce sont des chaussons, d'accord ?",
           "Comment est-ce qu'elles te rendent si grand ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "qu'ils"
+        ],
+        "incorrect-words": [
+          "qu'elles"
+        ]
       }
     ]
   },
@@ -578,7 +850,13 @@
           "Il se plaignait des femmes.",
           "Mais il passe plus de temps à se préparer qu'eux !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "qu'elles"
+        ],
+        "incorrect-words": [
+          "qu'eux"
+        ]
       },
       {
         "correct": [
@@ -589,7 +867,13 @@
           "Il se plaignait des dames.",
           "Mais il passe plus de temps à se préparer qu'eux !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "qu'elles"
+        ],
+        "incorrect-words": [
+          "qu'eux"
+        ]
       },
       {
         "semi-correct": [
@@ -600,7 +884,13 @@
           "Il se plaignait des jeunes.",
           "Mais il passe plus de temps à se préparer qu'elles !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "qu'eux"
+        ],
+        "incorrect-words": [
+          "qu'elles"
+        ]
       },
       {
         "semi-correct": [
@@ -611,7 +901,13 @@
           "Il se plaignait des hommes.",
           "Mais il passe plus de temps à se préparer qu'elles !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "qu'eux"
+        ],
+        "incorrect-words": [
+          "qu'elles"
+        ]
       }
     ]
   },
@@ -634,7 +930,13 @@
           "Ces ongles sont en très bon état.",
           "Bah, je les ai achetées ce matin."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "achetés"
+        ],
+        "incorrect-words": [
+          "achetées"
+        ]
       },
       {
         "correct": [
@@ -645,7 +947,13 @@
           "Ces clous sont en très bon état.",
           "Bah, je les ai achetées ce matin."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "achetés"
+        ],
+        "incorrect-words": [
+          "achetées"
+        ]
       },
       {
         "semi-correct": [
@@ -656,7 +964,13 @@
           "Ces vis sont en très bon état.",
           "Bah, je les ai achetés ce matin."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "achetées"
+        ],
+        "incorrect-words": [
+          "achetés"
+        ]
       },
       {
         "semi-correct": [
@@ -667,7 +981,13 @@
           "Ces fleurs sont en très bon état.",
           "Bah, je les ai achetés ce matin."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "achetées"
+        ],
+        "incorrect-words": [
+          "achetés"
+        ]
       }
     ]
   },
@@ -690,7 +1010,13 @@
           "Nous n'avons pas de table.",
           "Alors construis-en un, Harry !"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "une,"
+        ],
+        "incorrect-words": [
+          "un,"
+        ]
       },
       {
         "correct": [
@@ -701,7 +1027,13 @@
           "Nous n'avons pas de bureau.",
           "Alors construis-en une, Harry !"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "un,"
+        ],
+        "incorrect-words": [
+          "une,"
+        ]
       },
       {
         "semi-correct": [
@@ -712,7 +1044,13 @@
           "Nous n'avons pas de tableau.",
           "Alors construis-en une, Harry !"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "un,"
+        ],
+        "incorrect-words": [
+          "une,"
+        ]
       },
       {
         "semi-correct": [
@@ -723,7 +1061,13 @@
           "Nous n'avons pas de tablette.",
           "Alors construis-en un, Harry !"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "une,"
+        ],
+        "incorrect-words": [
+          "un,"
+        ]
       }
     ]
   },
@@ -746,7 +1090,13 @@
           "Et est-ce que tu crois que les hibous devraient être protégés aussi ?",
           "Oui elles le devraient !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "correct": [
@@ -757,7 +1107,13 @@
           "Et est-ce que tu crois que les chouettes devraient être protégées aussi ?",
           "Oui ils le devraient !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       },
       {
         "semi-correct": [
@@ -768,7 +1124,13 @@
           "Et est-ce que tu crois que les canards devraient être protégés aussi ?",
           "Oui elles le devraient !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "semi-correct": [
@@ -779,7 +1141,13 @@
           "Et est-ce que tu crois que les biches devraient être protégées aussi ?",
           "Oui ils le devraient !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       }
     ]
   },
@@ -802,7 +1170,13 @@
           "Pourriez-vous authentifier ces lettres, s'il vous plaît ?",
           "Oui, ce sont les miens."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "miennes."
+        ],
+        "incorrect-words": [
+          "miens."
+        ]
       },
       {
         "correct": [
@@ -813,7 +1187,13 @@
           "Pourriez-vous authentifier ces courriers, s'il vous plaît ?",
           "Oui, ce sont les miennes."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "miens."
+        ],
+        "incorrect-words": [
+          "miennes."
+        ]
       },
       {
         "semi-correct": [
@@ -824,7 +1204,13 @@
           "Pourriez-vous authentifier ces signatures, s'il vous plaît ?",
           "Oui, ce sont les miens."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "miennes."
+        ],
+        "incorrect-words": [
+          "miens."
+        ]
       },
       {
         "semi-correct": [
@@ -835,7 +1221,13 @@
           "Pourriez-vous authentifier ces documents, s'il vous plaît ?",
           "Oui, ce sont les miennes."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "miens."
+        ],
+        "incorrect-words": [
+          "miennes."
+        ]
       }
     ]
   },
@@ -858,7 +1250,13 @@
           "C'était une bière délicieuse.",
           "Alors, pourquoi est-ce qu'ils ne le fabriquent plus?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -869,7 +1267,13 @@
           "C'était une ale délicieuse.",
           "Alors, pourquoi est-ce qu'ils ne le fabriquent plus?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -880,7 +1284,13 @@
           "C'était un vin délicieux.",
           "Alors, pourquoi est-ce qu'ils ne la fabriquent plus?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -891,7 +1301,13 @@
           "C'était un alcool délicieux.",
           "Alors, pourquoi est-ce qu'ils ne la fabriquent plus?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       }
     ]
   },
@@ -914,7 +1330,13 @@
           "C'est drôle à quel point les humains sont stupides, non ?",
           "Le but même de la vie est de trouver l'amour et elles s'y prennent si mal."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "correct": [
@@ -925,7 +1347,13 @@
           "C'est drôle à quel point les gens sont stupides, non ?",
           "Le but même de la vie est de trouver l'amour et elles s'y prennent si mal."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "semi-correct": [
@@ -936,7 +1364,13 @@
           "C'est drôle à quel point les poules sont stupides, non ?",
           "Le but même de la vie est de trouver l'amour et ils s'y prennent si mal."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       },
       {
         "semi-correct": [
@@ -947,7 +1381,13 @@
           "C'est drôle à quel point les personnes sont stupides, non ?",
           "Le but même de la vie est de trouver l'amour et ils le font si mal."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       }
     ]
   },
@@ -970,7 +1410,13 @@
           "Tous ces cours...",
           "Elles seront utiles un jour."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils"
+        ],
+        "incorrect-words": [
+          "Elles"
+        ]
       },
       {
         "correct": [
@@ -981,7 +1427,13 @@
           "Toutes ces leçons...",
           "Ils seront utiles un jour."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles"
+        ],
+        "incorrect-words": [
+          "Ils"
+        ]
       },
       {
         "semi-correct": [
@@ -992,7 +1444,13 @@
           "Toutes ces séances...",
           "Ils seront utiles un jour."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles"
+        ],
+        "incorrect-words": [
+          "Ils"
+        ]
       },
       {
         "semi-correct": [
@@ -1003,7 +1461,13 @@
           "Tous ces enseignements...",
           "Elles seront utiles un jour."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils"
+        ],
+        "incorrect-words": [
+          "Elles"
+        ]
       }
     ]
   },
@@ -1026,7 +1490,13 @@
           "Mes parents m'envoient du gâteau toutes les semaines.",
           "Ô, les tiennes aussi !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "tiens"
+        ],
+        "incorrect-words": [
+          "tiennes"
+        ]
       },
       {
         "correct": [
@@ -1037,7 +1507,13 @@
           "Mon père et ma mère m'envoient du gâteau toutes les semaines.",
           "Ô, les tiennes aussi !"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "tiens"
+        ],
+        "incorrect-words": [
+          "tiennes"
+        ]
       },
       {
         "semi-correct": [
@@ -1048,7 +1524,13 @@
           "Mes tantes m'envoient du gâteau toutes les semaines.",
           "Ô, les tiens aussi !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "tiennes"
+        ],
+        "incorrect-words": [
+          "tiens"
+        ]
       },
       {
         "semi-correct": [
@@ -1059,7 +1541,13 @@
           "Mes sœurs m'envoient du gâteau toutes les semaines.",
           "Ô, les tiens aussi !"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "tiennes"
+        ],
+        "incorrect-words": [
+          "tiens"
+        ]
       }
     ]
   },
@@ -1082,7 +1570,13 @@
           "Nous ne pouvons pas informer les médias de l'existence des photos.",
           "Elles adoreraient les avoir."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils"
+        ],
+        "incorrect-words": [
+          "Elles"
+        ]
       },
       {
         "correct": [
@@ -1093,7 +1587,13 @@
           "Nous ne pouvons pas informer les journalistes de l'existence des photos.",
           "Elles adoreraient les avoir."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils"
+        ],
+        "incorrect-words": [
+          "Elles"
+        ]
       },
       {
         "semi-correct": [
@@ -1104,7 +1604,13 @@
           "Nous ne pouvons pas informer les femmes de l'existence des photos.",
           "Ils adoreraient les avoir."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles"
+        ],
+        "incorrect-words": [
+          "Ils"
+        ]
       },
       {
         "semi-correct": [
@@ -1115,7 +1621,13 @@
           "Nous ne pouvons pas informer les autorités de l'existence des photos.",
           "Ils adoreraient les avoir."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles"
+        ],
+        "incorrect-words": [
+          "Ils"
+        ]
       }
     ]
   },
@@ -1138,7 +1650,13 @@
           "Ça fait longtemps que je n'ai pas été à la rivière",
           "C'est chouette de le voir enfin."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -1149,7 +1667,13 @@
           "Ça fait longtemps que je n'ai pas été au fleuve",
           "C'est chouette de la voir enfin."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1160,7 +1684,13 @@
           "Ça fait longtemps que je n'ai pas été à la piscine",
           "C'est chouette de le voir enfin."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -1171,7 +1701,13 @@
           "Ça fait longtemps que je n'ai pas été au cinéma",
           "C'est chouette de la voir enfin."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       }
     ]
   },
@@ -1194,7 +1730,13 @@
           "Je vous ai amené votre argent.",
           "Alors elle est où ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       },
       {
         "correct": [
@@ -1205,7 +1747,13 @@
           "Je vous ai amené votre thune.",
           "Alors il est où ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "semi-correct": [
@@ -1216,7 +1764,13 @@
           "Je vous ai amené votre monnaie.",
           "Alors il est où ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "semi-correct": [
@@ -1227,7 +1781,13 @@
           "Je vous ai amené votre paiement.",
           "Alors elle est où ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       }
     ]
   },
@@ -1250,7 +1810,13 @@
           "Alors tu l'as pris dans son sac ?",
           "Oui, il l'a laissée à la maison."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "laissé"
+        ],
+        "incorrect-words": [
+          "laissée"
+        ]
       },
       {
         "correct": [
@@ -1261,7 +1827,13 @@
           "Alors tu l'as pris dans sa sacoche ?",
           "Oui, il l'a laissé à la maison."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "laissée"
+        ],
+        "incorrect-words": [
+          "laissé"
+        ]
       },
       {
         "semi-correct": [
@@ -1272,7 +1844,13 @@
           "Alors tu l'as pris dans son bagage ?",
           "Oui, il l'a laissée à la maison."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "laissé"
+        ],
+        "incorrect-words": [
+          "laissée"
+        ]
       },
       {
         "semi-correct": [
@@ -1283,7 +1861,13 @@
           "Alors tu l'as pris dans sa valise ?",
           "Oui, il l'a laissé à la maison."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "laissée"
+        ],
+        "incorrect-words": [
+          "laissé"
+        ]
       }
     ]
   },
@@ -1306,7 +1890,13 @@
           "Ce qui veut dire qu'il y a une solution.",
           "Et s'il l'a trouvé, alors, nous aussi, on peut."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "trouvée,"
+        ],
+        "incorrect-words": [
+          "trouvé,"
+        ]
       },
       {
         "correct": [
@@ -1317,7 +1907,13 @@
           "Ce qui veut dire qu'il y a une réponse.",
           "Et s'il l'a trouvé, alors, nous aussi, on peut."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "trouvée,"
+        ],
+        "incorrect-words": [
+          "trouvé,"
+        ]
       },
       {
         "semi-correct": [
@@ -1328,7 +1924,13 @@
           "Ce qui veut dire qu'il y a un indice.",
           "Et s'il l'a trouvée, alors, nous aussi, on peut."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "trouvé,"
+        ],
+        "incorrect-words": [
+          "trouvée,"
+        ]
       },
       {
         "semi-correct": [
@@ -1339,7 +1941,13 @@
           "Ce qui veut dire qu'il y a un truc.",
           "Et s'il l'a trouvée, alors, nous aussi, on peut."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "trouvé,"
+        ],
+        "incorrect-words": [
+          "trouvée,"
+        ]
       }
     ]
   },
@@ -1362,7 +1970,13 @@
           "Je pense que tu devrais couvrir ta tête.",
           "Si tu ne l'aimes pas, ne le regarde pas."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -1373,7 +1987,13 @@
           "Je pense que tu devrais couvrir ton crâne.",
           "Si tu ne l'aimes pas, ne la regarde pas."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1384,7 +2004,13 @@
           "Je pense que tu devrais couvrir ton visage.",
           "Si tu ne l'aimes pas, ne la regarde pas."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1395,7 +2021,13 @@
           "Je pense que tu devrais couvrir ta figure.",
           "Si tu ne l'aimes pas, ne le regarde pas."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       }
     ]
   },
@@ -1418,7 +2050,15 @@
           "La bague est là-dedans ?",
           "Je t'ai dit qu'il était petit."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "petite.",
+          "qu'elle"
+        ],
+        "incorrect-words": [
+          "qu'il",
+          "petit."
+        ]
       },
       {
         "correct": [
@@ -1429,7 +2069,15 @@
           "L'anneau est là-dedans ?",
           "Je t'ai dit qu'elle était petite."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "qu'il",
+          "petit."
+        ],
+        "incorrect-words": [
+          "petite.",
+          "qu'elle"
+        ]
       },
       {
         "semi-correct": [
@@ -1440,7 +2088,15 @@
           "La broche est là-dedans ?",
           "Je t'ai dit qu'il était petit."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "petite.",
+          "qu'elle"
+        ],
+        "incorrect-words": [
+          "qu'il",
+          "petit."
+        ]
       },
       {
         "semi-correct": [
@@ -1451,7 +2107,15 @@
           "Le collier est là-dedans ?",
           "Je t'ai dit qu'elle était petite."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "qu'il",
+          "petit."
+        ],
+        "incorrect-words": [
+          "petite.",
+          "qu'elle"
+        ]
       }
     ]
   },
@@ -1474,7 +2138,15 @@
           "Tu as détruit ma veste.",
           "Il était déjà détruit."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "détruite.",
+          "Elle"
+        ],
+        "incorrect-words": [
+          "détruit.",
+          "Il"
+        ]
       },
       {
         "correct": [
@@ -1485,7 +2157,15 @@
           "Tu as détruit mon manteau",
           "Elle était déjà détruite."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "détruit.",
+          "Il"
+        ],
+        "incorrect-words": [
+          "détruite.",
+          "Elle"
+        ]
       },
       {
         "semi-correct": [
@@ -1496,7 +2176,15 @@
           "Tu as détruit mon pull",
           "Elle était déjà détruite."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "détruit.",
+          "Il"
+        ],
+        "incorrect-words": [
+          "détruite.",
+          "Elle"
+        ]
       },
       {
         "semi-correct": [
@@ -1507,7 +2195,15 @@
           "Tu as détruit ma chemise",
           "Il était déjà détruit."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "détruite.",
+          "Elle"
+        ],
+        "incorrect-words": [
+          "détruit.",
+          "Il"
+        ]
       }
     ]
   },
@@ -1530,7 +2226,13 @@
           "Voici ton chapeau.",
           "Pourquoi tu me l'as prise ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "pris"
+        ],
+        "incorrect-words": [
+          "prise"
+        ]
       },
       {
         "correct": [
@@ -1541,7 +2243,13 @@
           "Voici ta casquette.",
           "Pourquoi tu me l'as pris ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "prise"
+        ],
+        "incorrect-words": [
+          "pris"
+        ]
       },
       {
         "semi-correct": [
@@ -1552,7 +2260,13 @@
           "Voici ta toque.",
           "Pourquoi tu me l'as pris ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "prise"
+        ],
+        "incorrect-words": [
+          "pris"
+        ]
       },
       {
         "semi-correct": [
@@ -1563,7 +2277,13 @@
           "Voici ton postiche.",
           "Pourquoi tu me l'as prise ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "pris"
+        ],
+        "incorrect-words": [
+          "prise"
+        ]
       }
     ]
   },
@@ -1586,7 +2306,13 @@
           "Qui t'a appris comment tenir un couteau ?",
           "Tu ne la tiens pas juste comme ça."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "correct": [
@@ -1597,7 +2323,13 @@
           "Qui t'a appris comment tenir une lame ?",
           "Tu ne le tiens pas juste comme ça."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -1608,7 +2340,13 @@
           "Qui t'a appris comment tenir une épée ?",
           "Tu ne le tiens pas juste comme ça."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -1619,7 +2357,13 @@
           "Qui t'a appris comment tenir un pistolet ?",
           "Tu ne la tiens pas juste comme ça."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       }
     ]
   },
@@ -1642,7 +2386,13 @@
           "Ce vélo est tellement moche.",
           "Pourquoi elle te plaît autant ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       },
       {
         "correct": [
@@ -1653,7 +2403,13 @@
           "Cette moto est tellement moche.",
           "Pourquoi il te plaît autant ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "semi-correct": [
@@ -1664,7 +2420,13 @@
           "Cette voiture est tellement moche.",
           "Pourquoi il te plaît autant ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "semi-correct": [
@@ -1675,7 +2437,13 @@
           "Ce bateau est tellement moche.",
           "Pourquoi elle te plaît autant ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       }
     ]
   },
@@ -1698,7 +2466,13 @@
           "Je ne peux pas mettre ce pantalon.",
           "Est-ce que tu peux la réparer ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "correct": [
@@ -1709,7 +2483,13 @@
           "Je ne peux pas mettre ce slip.",
           "Est-ce que tu peux la réparer ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1720,7 +2500,13 @@
           "Je ne peux pas mettre cette chemise.",
           "Est-ce que tu peux le réparer ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -1731,7 +2517,13 @@
           "Je ne peux pas mettre cette jupe.",
           "Est-ce que tu peux le réparer ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       }
     ]
   },
@@ -1754,7 +2546,13 @@
           "Elle aime peindre les infirmiers.",
           "Je les peins toutes."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "tous."
+        ],
+        "incorrect-words": [
+          "toutes."
+        ]
       },
       {
         "correct": [
@@ -1765,7 +2563,13 @@
           "Elle aime peindre les infirmières.",
           "Je les peins tous."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "toutes."
+        ],
+        "incorrect-words": [
+          "tous."
+        ]
       },
       {
         "semi-correct": [
@@ -1776,7 +2580,13 @@
           "Elle aime peindre les médecins.",
           "Je les peins toutes."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "tous."
+        ],
+        "incorrect-words": [
+          "toutes."
+        ]
       },
       {
         "semi-correct": [
@@ -1787,7 +2597,13 @@
           "Elle aime peindre les nourrices.",
           "Je les peins tous."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "toutes."
+        ],
+        "incorrect-words": [
+          "tous."
+        ]
       }
     ]
   },
@@ -1810,7 +2626,13 @@
           "Il doit y avoir des esprits dans votre vie.",
           "Heureusement, elles me laissent tranquille."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "correct": [
@@ -1821,7 +2643,13 @@
           "Il doit y avoir des fantômes dans votre vie.",
           "Heureusement, elles me laissent tranquille."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "semi-correct": [
@@ -1832,7 +2660,13 @@
           "Il doit y avoir des sorcières dans votre vie.",
           "Heureusement, ils me laissent tranquille."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       },
       {
         "semi-correct": [
@@ -1843,7 +2677,13 @@
           "Il doit y avoir des visions dans votre vie.",
           "Heureusement, ils me laissent tranquille."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       }
     ]
   },
@@ -1866,7 +2706,13 @@
           "Donc je veux une nouvelle drogue.",
           "Au moins vous le prenez."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -1877,7 +2723,13 @@
           "Donc je veux un nouveau médicament.",
           "Au moins vous la prenez."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1888,7 +2740,13 @@
           "Donc je veux un nouveau somnifère.",
           "Au moins vous la prenez."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1899,7 +2757,13 @@
           "Donc je veux une nouvelle pilule.",
           "Au moins vous le prenez."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       }
     ]
   },
@@ -1922,7 +2786,13 @@
           "Pourquoi tu chantes cette chanson ?",
           "Je voulais te le chanter."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -1933,7 +2803,13 @@
           "Pourquoi tu chantes ce chant ?",
           "Je voulais te la chanter."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -1944,7 +2820,13 @@
           "Pourquoi tu chantes cette mélodie ?",
           "Je voulais te le chanter."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -1955,7 +2837,13 @@
           "Pourquoi tu chantes cet air ?",
           "Je voulais te la chanter."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       }
     ]
   },
@@ -1978,7 +2866,13 @@
           "Vous aves des gamines merveilleuses.",
           "Ouais, ils vont t'adorer, toi."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       },
       {
         "correct": [
@@ -1989,7 +2883,13 @@
           "Vous aves des enfants merveilleux.",
           "Ouais, elles vont t'adorer, toi."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "semi-correct": [
@@ -2000,7 +2900,13 @@
           "Vous aves des tantes merveilleuses.",
           "Ouais, ils vont t'adorer, toi."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "ils"
+        ]
       },
       {
         "semi-correct": [
@@ -2011,7 +2917,13 @@
           "Vous aves des parents merveilleux.",
           "Ouais, elles vont t'adorer, toi."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "ils"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       }
     ]
   },
@@ -2034,7 +2946,15 @@
           "Juste des pommes de terre ?",
           "Ils doivent d'abord être cuits."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles",
+          "cuites."
+        ],
+        "incorrect-words": [
+          "Ils",
+          "cuits."
+        ]
       },
       {
         "correct": [
@@ -2045,7 +2965,15 @@
           "Juste des patates ?",
           "Ils doivent d'abord être cuits."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles",
+          "cuites."
+        ],
+        "incorrect-words": [
+          "Ils",
+          "cuits."
+        ]
       },
       {
         "semi-correct": [
@@ -2056,7 +2984,15 @@
           "Juste des navets ?",
           "Elles doivent d'abord être cuites."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils",
+          "cuits."
+        ],
+        "incorrect-words": [
+          "Elles",
+          "cuites."
+        ]
       },
       {
         "semi-correct": [
@@ -2067,7 +3003,15 @@
           "Juste des oignons ?",
           "Elles doivent d'abord être cuites."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils",
+          "cuits."
+        ],
+        "incorrect-words": [
+          "Elles",
+          "cuites."
+        ]
       }
     ]
   },
@@ -2090,7 +3034,15 @@
           "Juste des chips.",
           "Mais tu ne peux pas vraiment les manger tous seuls."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "toutes",
+          "seules."
+        ],
+        "incorrect-words": [
+          "tous",
+          "seuls."
+        ]
       },
       {
         "correct": [
@@ -2101,7 +3053,15 @@
           "Juste des frites.",
           "Mais tu ne peux pas vraiment les manger tous seuls."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "toutes",
+          "seules."
+        ],
+        "incorrect-words": [
+          "tous",
+          "seuls."
+        ]
       },
       {
         "semi-correct": [
@@ -2112,7 +3072,15 @@
           "Juste des crackers.",
           "Mais tu ne peux pas vraiment les manger toutes seules."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "tous",
+          "seuls."
+        ],
+        "incorrect-words": [
+          "toutes",
+          "seules."
+        ]
       },
       {
         "semi-correct": [
@@ -2123,7 +3091,15 @@
           "Juste des calissons.",
           "Mais tu ne peux pas vraiment les manger toutes seules."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "tous",
+          "seuls."
+        ],
+        "incorrect-words": [
+          "toutes",
+          "seules."
+        ]
       }
     ]
   },
@@ -2146,7 +3122,13 @@
           "Est-ce que je devrais laver l'assiette ?",
           "Non, amène-le juste ici, s'il te plaît."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "amène-la"
+        ],
+        "incorrect-words": [
+          "amène-le"
+        ]
       },
       {
         "correct": [
@@ -2157,7 +3139,13 @@
           "Est-ce que je devrais laver la plaque?",
           "Non, amène-le juste ici, s'il te plaît."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "amène-la"
+        ],
+        "incorrect-words": [
+          "amène-le"
+        ]
       },
       {
         "semi-correct": [
@@ -2168,7 +3156,13 @@
           "Est-ce que je devrais laver le bol?",
           "Non, amène-la juste ici, s'il te plaît."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "amène-le"
+        ],
+        "incorrect-words": [
+          "amène-la"
+        ]
       },
       {
         "semi-correct": [
@@ -2179,7 +3173,13 @@
           "Est-ce que je devrais laver le plateau?",
           "Non, amène-la juste ici, s'il te plaît."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "amène-le"
+        ],
+        "incorrect-words": [
+          "amène-la"
+        ]
       }
     ]
   },
@@ -2202,7 +3202,13 @@
           "Est-ce que c'est toi qui a créé ces statuettes ?",
           "Je les ai faits, oui."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "faites,"
+        ],
+        "incorrect-words": [
+          "faits,"
+        ]
       },
       {
         "correct": [
@@ -2213,7 +3219,13 @@
           "Est-ce que c'est toi qui a créé ces figurines ?",
           "Je les ai faits, oui."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "faites,"
+        ],
+        "incorrect-words": [
+          "faits,"
+        ]
       },
       {
         "semi-correct": [
@@ -2224,7 +3236,13 @@
           "Est-ce que c'est toi qui a créé ces tableaux ?",
           "Je les ai faites, oui."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "faits,"
+        ],
+        "incorrect-words": [
+          "faites,"
+        ]
       },
       {
         "semi-correct": [
@@ -2235,7 +3253,13 @@
           "Est-ce que c'est toi qui a créé ces œuvres d'art ?",
           "Je les ai faites, oui."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "faits,"
+        ],
+        "incorrect-words": [
+          "faites,"
+        ]
       }
     ]
   },
@@ -2258,7 +3282,13 @@
           "Un patient m'a donné ces babioles.",
           "Je ne sais pas pourquoi je les ai gardés."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "gardées."
+        ],
+        "incorrect-words": [
+          "gardés."
+        ]
       },
       {
         "correct": [
@@ -2269,7 +3299,13 @@
           "Un patient m'a donné ces bibelots.",
           "Je ne sais pas pourquoi je les ai gardées."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "gardés."
+        ],
+        "incorrect-words": [
+          "gardées."
+        ]
       },
       {
         "semi-correct": [
@@ -2280,7 +3316,13 @@
           "Un patient m'a donné ces porte-bonheurs.",
           "Je ne sais pas pourquoi je les ai gardées."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "gardés."
+        ],
+        "incorrect-words": [
+          "gardées."
+        ]
       },
       {
         "semi-correct": [
@@ -2291,7 +3333,13 @@
           "Un patient m'a donné ces décorations.",
           "Je ne sais pas pourquoi je les ai gardés."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "gardées."
+        ],
+        "incorrect-words": [
+          "gardés."
+        ]
       }
     ]
   },
@@ -2314,7 +3362,13 @@
           "Une sorte de brume.",
           "Et il vient d'où ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "correct": [
@@ -2325,7 +3379,13 @@
           "Une sorte de buée.",
           "Et il vient d'où ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "semi-correct": [
@@ -2336,7 +3396,13 @@
           "Une sorte de nuage.",
           "Et elle vient d'où ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       },
       {
         "semi-correct": [
@@ -2347,7 +3413,13 @@
           "Une sorte de brouillard.",
           "Et elle vient d'où ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       }
     ]
   },
@@ -2370,7 +3442,13 @@
           "J'ai fait ce livre pour toi il y a dix ans.",
           "Et je la lis souvent."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "correct": [
@@ -2381,7 +3459,13 @@
           "J'ai fait ce bouqin pour toi il y a dix ans.",
           "Et je la lis souvent."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -2392,7 +3476,13 @@
           "J'ai fait cette carte pour toi il y a dix ans.",
           "Et je le lis souvent."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -2403,7 +3493,13 @@
           "J'ai fait cette collection pour toi il y a dix ans.",
           "Et je le lis souvent."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       }
     ]
   },
@@ -2426,7 +3522,13 @@
           "Ça, c'est le nouvel arbuste que le voisin vient de planter.",
           "En fait elle n'est pas si mal si tu ne regardes pas de trop près."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       },
       {
         "correct": [
@@ -2437,7 +3539,13 @@
           "Ça, c'est le nouveau buisson que le voisin vient de planter.",
           "En fait elle n'est pas si mal si tu ne regardes pas de trop près."
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "il"
+        ],
+        "incorrect-words": [
+          "elle"
+        ]
       },
       {
         "semi-correct": [
@@ -2448,7 +3556,13 @@
           "Ça, c'est la nouvelle plante que le voisin vient de planter.",
           "En fait il n'est pas si mal si tu ne regardes pas de trop près."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       },
       {
         "semi-correct": [
@@ -2459,7 +3573,13 @@
           "Ça, c'est la nouvelle herbe que le voisin vient de planter.",
           "En fait il n'est pas si mal si tu ne regardes pas de trop près."
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "elle"
+        ],
+        "incorrect-words": [
+          "il"
+        ]
       }
     ]
   },
@@ -2482,7 +3602,13 @@
           "J'ai appris de nouvelles façons de le gérer",
           "Tu les ai appris où ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "apprises"
+        ],
+        "incorrect-words": [
+          "appris"
+        ]
       },
       {
         "correct": [
@@ -2493,7 +3619,13 @@
           "J'ai appris de nouvelles manières de le gérer",
           "Tu les ai appris où ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "apprises"
+        ],
+        "incorrect-words": [
+          "appris"
+        ]
       },
       {
         "semi-correct": [
@@ -2504,7 +3636,13 @@
           "J'ai appris de nouveaux modèles pour le gérer",
           "Tu les ai apprises où ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "appris"
+        ],
+        "incorrect-words": [
+          "apprises"
+        ]
       },
       {
         "semi-correct": [
@@ -2515,7 +3653,13 @@
           "J'ai appris de nouveaux pièges pour le gérer",
           "Tu les ai apprises où ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "appris"
+        ],
+        "incorrect-words": [
+          "apprises"
+        ]
       }
     ]
   },
@@ -2538,7 +3682,13 @@
           "Les enseignants sont l'ennemi.",
           "Elles ne t'ont certainement pas donné de raison de les aimer."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils"
+        ],
+        "incorrect-words": [
+          "Elles"
+        ]
       },
       {
         "correct": [
@@ -2549,7 +3699,13 @@
           "Les enseignantes sont l'ennemi.",
           "Ils ne t'ont certainement pas donné de raison de les aimer."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles"
+        ],
+        "incorrect-words": [
+          "Ils"
+        ]
       },
       {
         "semi-correct": [
@@ -2560,7 +3716,13 @@
           "Les directeurs sont l'ennemi.",
           "Elles ne t'ont certainement pas donné de raison de les aimer."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "Ils"
+        ],
+        "incorrect-words": [
+          "Elles"
+        ]
       },
       {
         "semi-correct": [
@@ -2571,7 +3733,13 @@
           "Les directrices sont l'ennemi.",
           "Ils ne t'ont certainement pas donné de raison de les aimer."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "Elles"
+        ],
+        "incorrect-words": [
+          "Ils"
+        ]
       }
     ]
   },
@@ -2594,7 +3762,13 @@
           "Du coup, je parlais aux jumeaux...",
           "Ô, je les avais déjà oubliées."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "oubliés."
+        ],
+        "incorrect-words": [
+          "oubliées."
+        ]
       },
       {
         "correct": [
@@ -2605,7 +3779,13 @@
           "Du coup, je parlais aux jumelles...",
           "Ô, je les avais déjà oubliés."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "oubliées."
+        ],
+        "incorrect-words": [
+          "oubliés."
+        ]
       },
       {
         "semi-correct": [
@@ -2616,7 +3796,13 @@
           "Du coup, je parlais aux filles...",
           "Ô, je les avais déjà oubliés."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "oubliées."
+        ],
+        "incorrect-words": [
+          "oubliés."
+        ]
       },
       {
         "semi-correct": [
@@ -2627,7 +3813,13 @@
           "Du coup, je parlais aux garçons...",
           "Ô, je les avais déjà oubliées."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "oubliés."
+        ],
+        "incorrect-words": [
+          "oubliées."
+        ]
       }
     ]
   },
@@ -2650,7 +3842,13 @@
           "Je me suis cassé la jambe.",
           "Tu veux dire que tu viens de te le casser à l'instant ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "correct": [
@@ -2661,7 +3859,13 @@
           "Je me suis cassé le tibia.",
           "Tu veux dire que tu viens de te la casser à l'instant ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       },
       {
         "semi-correct": [
@@ -2672,7 +3876,13 @@
           "Je me suis cassé la patte .",
           "Tu veux dire que tu viens de te le casser à l'instant ?"
         ],
-	  "type": "f.sg"
+        "type": "f.sg",
+        "correct-words": [
+          "la"
+        ],
+        "incorrect-words": [
+          "le"
+        ]
       },
       {
         "semi-correct": [
@@ -2683,7 +3893,13 @@
           "Je me suis cassé le bras .",
           "Tu veux dire que tu viens de te la casser à l'instant ?"
         ],
-	  "type": "m.sg"
+        "type": "m.sg",
+        "correct-words": [
+          "le"
+        ],
+        "incorrect-words": [
+          "la"
+        ]
       }
     ]
   },
@@ -2706,7 +3922,13 @@
           "Plusieurs de ces objets...",
           "Comment les avez-vous obtenues ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "obtenus"
+        ],
+        "incorrect-words": [
+          "obtenues"
+        ]
       },
       {
         "correct": [
@@ -2717,7 +3939,13 @@
           "Plusieurs de ces choses...",
           "Comment les avez-vous obtenus ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "obtenues"
+        ],
+        "incorrect-words": [
+          "obtenus"
+        ]
       },
       {
         "semi-correct": [
@@ -2728,7 +3956,13 @@
           "Plusieurs de ces sujets...",
           "Comment les avez-vous obtenues ?"
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "obtenus"
+        ],
+        "incorrect-words": [
+          "obtenues"
+        ]
       },
       {
         "semi-correct": [
@@ -2739,7 +3973,13 @@
           "Plusieurs de ces œuvres...",
           "Comment les avez-vous obtenus ?"
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "obtenues"
+        ],
+        "incorrect-words": [
+          "obtenus"
+        ]
       }
     ]
   },
@@ -2762,7 +4002,13 @@
           "Je t'ai dit d'éviter les problèmes.",
           "Bah, parfois c'est elles qui me trouvent."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "eux"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       },
       {
         "correct": [
@@ -2773,7 +4019,13 @@
           "Je t'ai dit d'éviter les difficultés.",
           "Bah, parfois c'est eux qui me trouvent."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "eux"
+        ]
       },
       {
         "semi-correct": [
@@ -2784,7 +4036,13 @@
           "Je t'ai dit d'éviter les mésaventures.",
           "Bah, parfois c'est eux qui me trouvent."
         ],
-	  "type": "f.pl"
+        "type": "f.pl",
+        "correct-words": [
+          "elles"
+        ],
+        "incorrect-words": [
+          "eux"
+        ]
       },
       {
         "semi-correct": [
@@ -2795,7 +4053,13 @@
           "Je t'ai dit d'éviter les incidents.",
           "Bah, parfois c'est elles qui me trouvent."
         ],
-	  "type": "m.pl"
+        "type": "m.pl",
+        "correct-words": [
+          "eux"
+        ],
+        "incorrect-words": [
+          "elles"
+        ]
       }
     ]
   }
