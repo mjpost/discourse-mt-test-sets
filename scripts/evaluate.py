@@ -22,11 +22,10 @@ def has_regex_tuple(regex_pair, diffs):
     return False
 
 
-
-def scores2analysis_lexical_choice(score_file, testjson, maximise=False):
+def scores2analysis_lexical_choice(score_file, testjson, maximise=False, gen=False):
     tfp = open_file(score_file)
     test = json.load(open(testjson))
-    
+
     # analyse different types of examples
     analysis = {"numcorrect": 0,
                 "numincorrect":0,
@@ -46,44 +45,54 @@ def scores2analysis_lexical_choice(score_file, testjson, maximise=False):
         for example in test[str(exampleblock)]["examples"]:
 
             # source and contrastive translations
-            src=example["src"]
-            trg_correct=example["trg"]["correct"]
-            trg_incorrect=example["trg"]["incorrect"]
+            src = example["src"]
+            trg_correct = example["trg"]["correct"]
+            trg_incorrect = example["trg"]["incorrect"]
 
             # type of example (repet, disambig)
             if "type" in test[str(exampleblock)]:
-                type_coh=test[str(exampleblock)]["type"]
+                type_coh = test[str(exampleblock)]["type"]
             else:
-                type_coh=None
+                type_coh = None
             if type_coh not in ["repet", "disambig", "repet, disambig", None]:
                 exit(str(type_coh)+" is not a real type")
-                
-            # get one score for each translation (first correct, then contrastive)
-            score_correct = float(tfp.readline().strip().split()[0])
-            score_incorrect=float(tfp.readline().strip().split()[0])
 
-            # lower is better, compare the scores
-            if (maximise and score_correct > score_incorrect) or \
-               (not maximise and score_correct < score_incorrect):
-                analysis["numcorrect"]+=1
-                numexamplescorrect+=1
+            # get one score for each translation (first correct, then contrastive)
+            if gen:
+                correct_phrase = example["correct-words"]
+                incorrect_phrase = example["incorrect-words"]
+
+                output = tfp.readline().split("<eos>")[-1].strip()
+                tfp.readline()  # skip the next output (is identical since target 2 output is missing)
+
+                was_correct = correct_phrase in output and incorrect_phrase not in output
             else:
-                analysis["numincorrect"]+=1
+                score_correct = float(tfp.readline().strip().split()[0])
+                score_incorrect=float(tfp.readline().strip().split()[0])
+
+                # lower is better, compare the scores
+                was_correct = (maximise and score_correct > score_incorrect) or \
+                    (not maximise and score_correct < score_incorrect)
+
+            if was_correct:
+                analysis["numcorrect"] += 1
+                numexamplescorrect += 1
+            else:
+                analysis["numincorrect"] += 1
 
             # separate by type of phenomenon
             if type_coh is not None:
-                if (maximise and score_correct > score_incorrect) or \
-                   (not maximise and score_correct < score_incorrect):
-                    analysis[type_coh+"-numcorrect"]+=1
+                if was_correct:
+                    analysis[type_coh+"-numcorrect"] += 1
                 else:
-                    analysis[type_coh+"-numincorrect"]+=1
+                    analysis[type_coh+"-numincorrect"] += 1
 
-        
+
         #if numexamplescorrect != 1:
         #    print(exampleblock, 'numexamplescorrect = ', numexamplescorrect)
-                           
+
         # are all examples correct in this block?
-        if numexamplescorrect==len(test[str(exampleblock)]["examples"]):
+        if numexamplescorrect == len(test[str(exampleblock)]["examples"]):
             analysis["whole_examples_correct"].append(str(exampleblock))
 
     return analysis
@@ -115,8 +124,8 @@ def analyse_lexical_choice(analysis):
     print("Total precision = " + str(analysis["numcorrect"]) + '/' + str(total) + \
           " = " + str(analysis["numcorrect"] / float(total)) + "\n")
 
-    
-def scores2analysis_anaphora(score_file, testjson, maximise=False):
+
+def scores2analysis_anaphora(score_file, testjson, maximise=False, gen=False):
     tfp = open_file(score_file)
     test = json.load(open(testjson))
 
@@ -148,33 +157,49 @@ def scores2analysis_anaphora(score_file, testjson, maximise=False):
         # keep track of num correct and incorrect
         num_correct = 0
         num_incorrect = 0
-        
+
         ptypes = {} # to check number of different types
 
         # for each possible target constrastive pair
         for t in trg:
-            
+
             # is it correct or semi-correct translation?
             if "correct" in t:
                 exampletype = "correct"
             else:
-                exampletype="semi-correct"
-
+                exampletype = "semi-correct"
 
             # what gender and number?
             gennum = t["type"]
 
-            
             # get correct and incorrect translations and their scores
             correct = t[exampletype]
             incorrect = t["incorrect"]
-            score_correct = float(tfp.readline().strip().split()[0])
-            score_incorrect = float(tfp.readline().strip().split()[0])
 
-            
+            if gen:
+                correct_words = t["correct-words"]
+                incorrect_words = t["incorrect-words"]
+
+                output = tfp.readline().split("<eos>")[-1].strip()
+                tfp.readline()  # skip the next output (is identical since target 2 output is missing)
+
+                was_correct = True
+                for word in correct_words:
+                    if word not in output:
+                        was_correct = False
+                        break
+                for word in incorrect_words:
+                    if word in output:
+                        was_correct = False
+                        break
+            else:
+                score_correct = float(tfp.readline().strip().split()[0])
+                score_incorrect = float(tfp.readline().strip().split()[0])
+                was_correct = (maximise and score_correct > score_incorrect) or \
+                    (not maximise and score_correct < score_incorrect)
+
             # compare raw scores and mark as correct or incorrect
-            if (maximise and score_correct > score_incorrect) or \
-               (not maximise and score_correct < score_incorrect):
+            if was_correct:
                 analysis["numcorrect"][exampletype] +=1
                 num_correct += 1
             else:
@@ -182,34 +207,27 @@ def scores2analysis_anaphora(score_file, testjson, maximise=False):
                 num_incorrect +=1
 
             # (in)correct for that example type
-            if (maximise and score_correct > score_incorrect) or \
-               (not maximise and score_correct < score_incorrect):
+            if was_correct:
                 analysis["pronouns"]["numcorrect"][exampletype] +=1
                 analysis["pronouns"][gennum]["numcorrect"][exampletype] +=1
             else:
                 analysis["pronouns"][gennum]["numincorrect"][exampletype] +=1
 
-
-            
-
-
-        if num_incorrect==0:
+        if num_incorrect == 0:
             analysis["whole_examples"]["all_correct"].append(example)
 
         else: analysis["whole_examples"]["at_least_one_incorrect"].append(example)
 
-        
     return analysis
 
 
-    
-def analyse_anaphora(analysis):    
+def analyse_anaphora(analysis):
     print("Distribution of pronoun types (in examples): ")
     for pron in ["m.sg", "f.sg", "m.pl", "f.pl"]:
 
         num_correct_ex = analysis["pronouns"][pron]["numcorrect"]["correct"] +analysis["pronouns"][pron]["numincorrect"]["correct"]
         num_semicorrect_ex = analysis["pronouns"][pron]["numcorrect"]["semi-correct"] +analysis["pronouns"][pron]["numincorrect"]["semi-correct"]
-        
+
         print("\t" +pron +"\ttotal: " +str(num_correct_ex + num_semicorrect_ex))
         print("\t\t\t: correct: " +str(num_correct_ex) +", semi-correct: " +str(num_semicorrect_ex))
 
@@ -257,19 +275,20 @@ def analyse_anaphora(analysis):
     print("\n-------- Summary ---------")
     print("Overall precision = " + str(total_correct) + "/" + str(total) +
           " = " + str(total_correct/float(total)))
-    
+
     #print("Total numbers: " +str(sum(analysis["numcorrect"].values())) +" correct, " +str(sum(analysis["numincorrect"].values())) +" incorrect")
     #print(analysis)
 
 
-    
+
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("json_test_set_file")
     parser.add_argument("type", choices=["anaphora", "lexical_choice"])
-    parser.add_argument('--maximise', default=False, action='store_true',
+    parser.add_argument('--maximise', "-m", default=False, action='store_true',
                         help='higher scores are better')
+    parser.add_argument("--gen", action="store_true", help="Score generative model rather than contrastive")
     parser.add_argument("scorefile")
     args = parser.parse_args()
 
@@ -277,10 +296,10 @@ if __name__=="__main__":
 
 
     if args.type=="anaphora":
-        analysis = scores2analysis_anaphora(args.scorefile, args.json_test_set_file, args.maximise)
+        analysis = scores2analysis_anaphora(args.scorefile, args.json_test_set_file, maximise=args.maximise, gen=args.gen)
         analyse_anaphora(analysis)
     else:
-        analysis = scores2analysis_lexical_choice(args.scorefile, args.json_test_set_file, args.maximise)
+        analysis = scores2analysis_lexical_choice(args.scorefile, args.json_test_set_file, maximise=args.maximise, gen=args.gen)
         analyse_lexical_choice(analysis)
 
 
