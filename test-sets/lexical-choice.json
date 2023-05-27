@@ -243,7 +243,7 @@
           ],
           "incorrect": [
             "Est-ce que c'est grave, Docteur ?",
-            "Il va falloir se débarasser de cette taupe."
+            "Il va falloir se débarrasser de cette taupe."
           ]
         },
         "correct-words": "enlever ce grain beauté.",
@@ -257,7 +257,7 @@
         "trg": {
           "correct": [
             "Les choses pourraient devenir dangereuses si les ministres apprenaient ça.",
-            "Il va falloir se débarasser de cette taupe."
+            "Il va falloir se débarrasser de cette taupe."
           ],
           "incorrect": [
             "Les choses pourraient devenir dangereuses si les ministres apprenaient ça.",
@@ -1724,7 +1724,7 @@
         "trg": {
           "correct": [
             "Est-ce que vous avez du mal à respirer ?",
-            "Ma poitrine est assez lourde..."
+            "J'ai du mal à respirer..."
           ],
           "incorrect": [
             "Est-ce que vous avez du mal à respirer ?",
@@ -1746,7 +1746,7 @@
           ],
           "incorrect": [
             "Pourquoi est-ce que tu penses que c'est toi qui as le plus de pièces en or ?",
-            "Ma poitrine est assez lourde..."
+            "J'ai du mal à respirer..."
           ]
         },
         "correct-words": "Mon coffre lourd...",
@@ -3032,7 +3032,7 @@
           ],
           "incorrect": [
             "Je n'arrive pas à trouver un jeu de cartes complet.",
-            "On va devoir faire sans le tison alors."
+            "On va devoir faire sans le tisonnier alors."
           ]
         },
         "correct-words": "oublier poker",
@@ -3045,11 +3045,11 @@
         ],
         "trg": {
           "correct": [
-            "Le tison est utilisé pour soutenir la table.",
-            "On va devoir faire sans le tison alors."
+            "Le tisonnier est utilisé pour soutenir la table.",
+            "On va devoir faire sans le tisonnier alors."
           ],
           "incorrect": [
-            "Le tison est utilisé pour soutenir la table.",
+            "Le tisonnier est utilisé pour soutenir la table.",
             "On va devoir oublier le poker alors."
           ]
         },
